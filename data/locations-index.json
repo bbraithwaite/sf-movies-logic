@@ -1,0 +1,5609 @@
+{
+  "Randall Musuem": {
+    "address": "Randall Museum, 199 Museum Way, San Francisco, CA 94114, USA",
+    "geo": {
+      "lat": 37.7643243,
+      "lng": -122.4384077
+    }
+  },
+  "555 Market St.": {
+    "address": "555 Market Street, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.78989,
+      "lng": -122.39993
+    }
+  },
+  "Mason & California Streets (Nob Hill)": {
+    "address": "Mason Street & Nob Hill Place, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7915555,
+      "lng": -122.4107655
+    }
+  },
+  "200 block Market Street": {
+    "address": "200 Market Street, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7931329,
+      "lng": -122.3965602
+    }
+  },
+  "Epic Roasthouse (399 Embarcadero)": {
+    "address": "Embarcadero, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7992627,
+      "lng": -122.3976732
+    }
+  },
+  "City Hall": {
+    "address": "San Francisco City Hall, 1 Doctor Carlton B Goodlett Place, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7793176,
+      "lng": -122.4191405
+    }
+  },
+  "Polk & Larkin Streets": {
+    "address": "Larkin St & Grove St, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.778901,
+      "lng": -122.416545
+    }
+  },
+  "null": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Rainforest Café (145 Jefferson Street)": {
+    "address": "145 Jefferson Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8081372,
+      "lng": -122.414542
+    }
+  },
+  "Crissy Field": {
+    "address": "Crissy Field, Golden Gate National Recreation Area, 1199 East Beach, San Francisco, CA 94129, USA",
+    "geo": {
+      "lat": 37.8039069,
+      "lng": -122.4640618
+    }
+  },
+  "Powell from Bush and Sutter": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Broderick from Fulton to McAlister": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Coit Tower": {
+    "address": "Coit Tower, 1 Telegraph Hill Boulevard, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8023949,
+      "lng": -122.4058222
+    }
+  },
+  "20th and Folsom Streets": {
+    "address": "Folsom Street & 20th Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.758895,
+      "lng": -122.4147242
+    }
+  },
+  "Golden Gate Park": {
+    "address": "Golden Gate Park, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7694208,
+      "lng": -122.4862138
+    }
+  },
+  "Filbert St. from Jones to Mason": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Leavenworth from Filbert & Francisco St": {
+    "address": "Francisco Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.8031072,
+      "lng": -122.4258018
+    }
+  },
+  "Chestnut St. from Larkin to Columbus": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Francisco St from Larkin to Polk": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Broadway from Mason to Taylor": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Taylor St. from Broadway to Filbert": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Cliff House (1090 Point Lobos Avenue)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "San Francisco Bay": {
+    "address": "San Francisco Bay, California, USA",
+    "geo": {
+      "lat": 37.6909682,
+      "lng": -122.3107517
+    }
+  },
+  "Fairmont Hotel (950 Mason Street, Nob Hill)": {
+    "address": "Fairmont San Francisco, 950 Mason Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7924958,
+      "lng": -122.4100354
+    }
+  },
+  "Curran Theater (445 Geary Street)": {
+    "address": "445 Geary Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7867729,
+      "lng": -122.410581
+    }
+  },
+  "Mel's Drive-In (Corner of Van Ness & Mission Street, Mission District)": {
+    "address": "Mission Street, California, USA",
+    "geo": {
+      "lat": 37.7446887,
+      "lng": -122.4204743
+    }
+  },
+  "3355 Geary Blvd.": {
+    "address": "3355 Geary Boulevard, San Francisco, CA 94118, USA",
+    "geo": {
+      "lat": 37.781171,
+      "lng": -122.45488
+    }
+  },
+  "Embarcadero Freeway": {
+    "address": "Southern Embarcadero Freeway, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7472584,
+      "lng": -122.3936442
+    }
+  },
+  "San Francisco Chronicle (901 Mission Street at 15th Street)": {
+    "address": "15th Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7666467,
+      "lng": -122.4202653
+    }
+  },
+  "Broadway (North Beach)": {
+    "address": "Broadway Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7959341,
+      "lng": -122.4219451
+    }
+  },
+  "Intersection of California at Polk": {
+    "address": "Polk Street & Francisco Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8034332,
+      "lng": -122.423301
+    }
+  },
+  "Grant between Bush and Broadway": {
+    "address": "Broadway Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7959341,
+      "lng": -122.4219451
+    }
+  },
+  "Intersection of Broadway at Kearney": {
+    "address": "Broadway Street & Kearny Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7980275,
+      "lng": -122.4055358
+    }
+  },
+  "Market between Stuart and Van Ness": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Treasure Lisland, Building #1, Ave of the Palms": {
+    "address": "Treasure Island Administration Building 1, 1 Avenue of the Palms, San Francisco, CA 94130, USA",
+    "geo": {
+      "lat": 37.8172723,
+      "lng": -122.3708037
+    }
+  },
+  "Conzelman Rd at McCollough Rd and down Concelman Rd.": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Lombard at Hyde": {
+    "address": "Hyde Street & Lombard Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8020032,
+      "lng": -122.4196662
+    }
+  },
+  "601 Buena Vista Ave West at Java St.": {
+    "address": "601 Buena Vista Avenue West, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.76696829999999,
+      "lng": -122.4437158
+    }
+  },
+  "420 Jones St. at Ellis St.": {
+    "address": "420 Jones Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7851232,
+      "lng": -122.4126633
+    }
+  },
+  "Broadway between Powell and Davis": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Columbus between Bay and Washington": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "California between Kearney and Davis": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Pine between Kearney and Davis": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Ocean Beach": {
+    "address": "Ocean Beach, Golden Gate National Recreation Area, San Francisco, CA 94122, USA",
+    "geo": {
+      "lat": 37.75939210000001,
+      "lng": -122.510734
+    }
+  },
+  "75 California Street": {
+    "address": "California Street, San Francisco, CA 94121, USA",
+    "geo": {
+      "lat": 37.7835159,
+      "lng": -122.4929588
+    }
+  },
+  "Grace Cathedral Episcopal Church (1100 California Street)": {
+    "address": "Grace Cathedral, 1100 California, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7920733,
+      "lng": -122.4134177
+    }
+  },
+  "Hills Brothers Plaza (Embarcadero at Harrison Street)": {
+    "address": "Harrison Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.773256,
+      "lng": -122.4091853
+    }
+  },
+  "San Francisco International Airport": {
+    "address": "San Francisco International Airport (SFO), San Francisco, CA 94128, USA",
+    "geo": {
+      "lat": 37.6213129,
+      "lng": -122.3789554
+    }
+  },
+  "Hyde Street Cable Car": {
+    "address": "Golden Gate National Recreation Area, San Francisco Maritime National Historical Park, Powell-Hyde Cable Car, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8069176,
+      "lng": -122.4209106
+    }
+  },
+  "Chinatown": {
+    "address": "Chinatown, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7941378,
+      "lng": -122.4077914
+    }
+  },
+  "Burger Island (901 3rd Street, China Basin)": {
+    "address": "901 3rd Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7775523,
+      "lng": -122.3910986
+    }
+  },
+  "Van Ness Avenue": {
+    "address": "Van Ness Avenue, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7913102,
+      "lng": -122.422592
+    }
+  },
+  "Taylor and Jefferson Streets (Fisherman's Wharf)": {
+    "address": "Taylor Street & Jefferson Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8082428,
+      "lng": -122.4158057
+    }
+  },
+  "Port of San Francisco ": {
+    "address": "Port of San Francisco, Pier 1 The Embarcadero, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7969874,
+      "lng": -122.3951684
+    }
+  },
+  "Lefty O' Doul Drawbridge/ 3rd Street Bridge (3rd Street, China Basin)": {
+    "address": "3rd Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7659631,
+      "lng": -122.3891193
+    }
+  },
+  "Golden Gate Bridge": {
+    "address": "Golden Gate Bridge, San Francisco, CA 94129, USA",
+    "geo": {
+      "lat": 37.8199286,
+      "lng": -122.4782551
+    }
+  },
+  "Potrero Hill": {
+    "address": "Potrero Hill, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7604929,
+      "lng": -122.400869
+    }
+  },
+  "Gibb Street (Chinatown)": {
+    "address": "Gibb Street, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7960524,
+      "lng": -122.4042824
+    }
+  },
+  "2104 Broadway": {
+    "address": "2104 Broadway Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7946658,
+      "lng": -122.4320845
+    }
+  },
+  "Raw Hide II (280 Seventh Street)": {
+    "address": "280 7th Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.776817,
+      "lng": -122.408527
+    }
+  },
+  "Pier 7 (The Embarcadero)": {
+    "address": "Pier 7, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.8001077,
+      "lng": -122.3943664
+    }
+  },
+  "Kearney Street (Telegraph Hill)": {
+    "address": "Kearny Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7975623,
+      "lng": -122.4054395
+    }
+  },
+  "Hall of Justice (850 Bryant Street)": {
+    "address": "Hall of Justice, 850 Bryant Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.775471,
+      "lng": -122.4037169
+    }
+  },
+  "2930 Vallejo Street": {
+    "address": "2930 Vallejo Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.794164,
+      "lng": -122.445704
+    }
+  },
+  "1158-70 Montgomery Street": {
+    "address": "70 Montgomery Street, San Francisco, CA 94104, USA",
+    "geo": {
+      "lat": 37.789894,
+      "lng": -122.4021795
+    }
+  },
+  "Steinhart Aquarium (California Academy of Sciences, Golden Gate Park)": {
+    "address": "California Academy of Sciences, 55 Music Concourse Drive, San Francisco, CA 94118, USA",
+    "geo": {
+      "lat": 37.7698646,
+      "lng": -122.4660947
+    }
+  },
+  "Tosca Café (242 Columbus Avenue)": {
+    "address": "242 Columbus Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7976266,
+      "lng": -122.4058736
+    }
+  },
+  "Transbay Terminal (Mission Street at 1st Street)": {
+    "address": "1st Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7881209,
+      "lng": -122.3954958
+    }
+  },
+  "Yuerba Buena Center for the Arts": {
+    "address": "Center For the Art-Translation, 582 Market Street #700, San Francisco, CA 94104, USA",
+    "geo": {
+      "lat": 37.7895222,
+      "lng": -122.4016104
+    }
+  },
+  "Montgomery & Market Streets": {
+    "address": "Market Street & Montgomery Street, San Francisco, CA 94104, USA",
+    "geo": {
+      "lat": 37.7888201,
+      "lng": -122.4019967
+    }
+  },
+  "Washington Square Park (Filbert, between Stockton and Powell)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "1155 Filbert Street at Hyde": {
+    "address": "1155 Filbert Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7999164,
+      "lng": -122.4183705
+    }
+  },
+  "Treasure Island": {
+    "address": "Treasure Island, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.8235515,
+      "lng": -122.370648
+    }
+  },
+  "Postcard Row, Alamo Square, Hayes Valley": {
+    "address": "Hayes Valley, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7759073,
+      "lng": -122.4245247
+    }
+  },
+  "Harry's Bar on Fillmore": {
+    "address": "Fillmore District, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7807663,
+      "lng": -122.4293132
+    }
+  },
+  "Nobles Alley": {
+    "address": "Nobles Alley, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8009686,
+      "lng": -122.4075668
+    }
+  },
+  "Palace of Fine Arts": {
+    "address": "Palace of Fine Arts, Golden Gate National Recreation Area, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.801456,
+      "lng": -122.448053
+    }
+  },
+  "1101 Filbert St. ": {
+    "address": "1101 Filbert Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8001558,
+      "lng": -122.4178041
+    }
+  },
+  "Saints Peter & Paul Church": {
+    "address": "Saints Peter and Paul Church, 666 Filbert Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.801474,
+      "lng": -122.4102024
+    }
+  },
+  "Green St. & Grant Ave.": {
+    "address": "Green Street & Grant Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7997174,
+      "lng": -122.4074187
+    }
+  },
+  "Filbert St. & Leavenworth": {
+    "address": "Filbert Street & Leavenworth Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8003487,
+      "lng": -122.4176339
+    }
+  },
+  "Pine St. & Grant": {
+    "address": "Pine Street & Grant Avenue, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7915231,
+      "lng": -122.4057802
+    }
+  },
+  "Way Faire Inn on Leidsdorff": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Tosca Café (242 Columbus Avenue, North Beach)": {
+    "address": "242 Columbus Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7976266,
+      "lng": -122.4058736
+    }
+  },
+  "Alcatraz Island": {
+    "address": "Alcatraz Island, Golden Gate National Recreation Area, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8269775,
+      "lng": -122.4229555
+    }
+  },
+  "Pier 43 1/2": {
+    "address": "2 Pier 2, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7973451,
+      "lng": -122.3952518
+    }
+  },
+  "The Ramp Restaurant": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "303-305 S. Van Ness": {
+    "address": "305 South Van Ness Avenue, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7682683,
+      "lng": -122.4176369
+    }
+  },
+  "3563 20th St.": {
+    "address": "3563 20th Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7585367,
+      "lng": -122.4204073
+    }
+  },
+  "Taylor & Green St.": {
+    "address": "Green Street & Taylor Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7989188,
+      "lng": -122.4139568
+    }
+  },
+  "Grant & Washington St.": {
+    "address": "Washington Street & Grant Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7951646,
+      "lng": -122.4065048
+    }
+  },
+  "2934 24th St.": {
+    "address": "2934 24th Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7529387,
+      "lng": -122.4107722
+    }
+  },
+  "1138 Alabama St": {
+    "address": "1138 Alabama Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7536368,
+      "lng": -122.4110882
+    }
+  },
+  "2915 16th St.": {
+    "address": "2915 16th Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7650458,
+      "lng": -122.4179787
+    }
+  },
+  "Trolly Car from Market and 11th": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Real Guitars": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Aub Zam Zam Bar": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "790 Ulloa ": {
+    "address": "790 Ulloa Street, San Francisco, CA 94127, USA",
+    "geo": {
+      "lat": 37.740824,
+      "lng": -122.4646466
+    }
+  },
+  "SFO International Airport Terminal 3": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "2178 Palou Ave.": {
+    "address": "2178 Palou Avenue, San Francisco, CA 94124, USA",
+    "geo": {
+      "lat": 37.7406288,
+      "lng": -122.4015231
+    }
+  },
+  "South Park": {
+    "address": "South Park, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7815501,
+      "lng": -122.3940353
+    }
+  },
+  "Jones & Pacific": {
+    "address": "Pacific Avenue & Jones Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.795885,
+      "lng": -122.4150486
+    }
+  },
+  "Pacific & Divisadero": {
+    "address": "Divisadero Street & Pacific Avenue, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7925208,
+      "lng": -122.4413036
+    }
+  },
+  "Lombard & Hyde": {
+    "address": "Hyde Street & Lombard Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8020032,
+      "lng": -122.4196662
+    }
+  },
+  "5546 Geary Ave": {
+    "address": "5546 Geary Boulevard, San Francisco, CA 94121, USA",
+    "geo": {
+      "lat": 37.780586,
+      "lng": -122.4791515
+    }
+  },
+  "2898 Broadway": {
+    "address": "2898 Broadway Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.793335,
+      "lng": -122.44471
+    }
+  },
+  "Marina Green": {
+    "address": "Marina Green Park, Golden Gate National Recreation Area, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.8066235,
+      "lng": -122.4391137
+    }
+  },
+  "Ocean Beach at Lincoln": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Heald College": {
+    "address": "Heald College San Francisco, 875 Howard Street #100, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7818115,
+      "lng": -122.403822
+    }
+  },
+  "Marina Blvd from Leguna to Baker": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "330 Santa Clara Ave.": {
+    "address": "330 Santa Clara Avenue, San Francisco, CA 94127, USA",
+    "geo": {
+      "lat": 37.734209,
+      "lng": -122.466499
+    }
+  },
+  "200 Post St. ": {
+    "address": "200 Post Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.78874,
+      "lng": -122.4053011
+    }
+  },
+  "2179 48th Ave": {
+    "address": "2179 48th Avenue, San Francisco, CA 94116, USA",
+    "geo": {
+      "lat": 37.745553,
+      "lng": -122.507258
+    }
+  },
+  "1122 Folsom Street": {
+    "address": "1122 Folsom Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7763896,
+      "lng": -122.4086328
+    }
+  },
+  "St. Peter & Paul's Church (666 Filbert Street, Washington Square)": {
+    "address": "Washington Square Park, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8009182,
+      "lng": -122.410111
+    }
+  },
+  "628 Cole Street": {
+    "address": "628 Cole Street, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.7690941,
+      "lng": -122.4506087
+    }
+  },
+  "Aquatic Park (Jefferson Street)": {
+    "address": "Aquatic Park, 499 Jefferson Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8074647,
+      "lng": -122.4208864
+    }
+  },
+  "Lombard Street": {
+    "address": "Lombard Street, Lombard Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.802139,
+      "lng": -122.41874
+    }
+  },
+  "Ferry Building": {
+    "address": "S.F. Ferry Building, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.79592299999999,
+      "lng": -122.392052
+    }
+  },
+  "Fisherman's Wharf": {
+    "address": "Fisherman's Wharf, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.8079996,
+      "lng": -122.4177434
+    }
+  },
+  "Ina Coolbrith Park (1700 Taylor Street)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "0-100 block Halleck Street": {
+    "address": "100 Halleck Street, San Francisco, CA 94129, USA",
+    "geo": {
+      "lat": 37.7937113,
+      "lng": -122.4000974
+    }
+  },
+  "Café Cantata (2040 Union Street)": {
+    "address": "2040 Union Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.7976826,
+      "lng": -122.432994
+    }
+  },
+  "Bayshore Blvd near Cesar Chavez (Bayview)": {
+    "address": "Cesar Chavez, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.748033,
+      "lng": -122.4133552
+    }
+  },
+  "Taylor & Vallejo Streets (Russian Hill)": {
+    "address": "Vallejo Street & Taylor Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7980344,
+      "lng": -122.4137557
+    }
+  },
+  "SF General Hospital Center (1001 Potrero Avenue, Potrero Hill)": {
+    "address": "Potrero Terrace, Connecticut Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7529467,
+      "lng": -122.3967776
+    }
+  },
+  "McClaren Park (Vistacon Valley)": {
+    "address": "John McLaren Park, 100 John F Shelley Drive, San Francisco, CA 94134, USA",
+    "geo": {
+      "lat": 37.7196766,
+      "lng": -122.4206972
+    }
+  },
+  "Mark Hopkins Hotel (999 California Street)": {
+    "address": "Mark Hopkins Hotel, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.79155799999999,
+      "lng": -122.410364
+    }
+  },
+  "Marina Green (Marina District)": {
+    "address": "Marina Green Park, Golden Gate National Recreation Area, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.8066235,
+      "lng": -122.4391137
+    }
+  },
+  "Mansell & University Streets (Vistacon Valley)": {
+    "address": "Mansell Street & University Street, San Francisco, CA 94134, USA",
+    "geo": {
+      "lat": 37.719074,
+      "lng": -122.41099
+    }
+  },
+  "Larkin & Francisco Streets (Russian Hill)": {
+    "address": "Larkin Street & Francisco Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.80356080000001,
+      "lng": -122.4218062
+    }
+  },
+  "Larkin & Chestnut Streets (Russian Hill)": {
+    "address": "Chestnut Street & Larkin Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8027332,
+      "lng": -122.4214466
+    }
+  },
+  "Kennedy Hotel (226 Embarcadero at Howard Street)": {
+    "address": "Howard Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7815157,
+      "lng": -122.4049555
+    }
+  },
+  "John Muir Drive (Lake Merced)": {
+    "address": "Lake Merced, San Francisco, CA 94132, USA",
+    "geo": {
+      "lat": 37.7206672,
+      "lng": -122.4955458
+    }
+  },
+  "Intersection of York & Peralta (Bernal Heights)": {
+    "address": "Peralta Avenue & York Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7474896,
+      "lng": -122.4068482
+    }
+  },
+  "Filbert & Taylor Streets (Russian Hill)": {
+    "address": "Filbert Street & Taylor Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8007748,
+      "lng": -122.4143291
+    }
+  },
+  "Enrico's Café (504 Broadway)": {
+    "address": "504 Broadway Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.798165,
+      "lng": -122.4056481
+    }
+  },
+  "Columbus & Lombard Streets (North Beach)": {
+    "address": "Columbus Avenue & Lombard Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8027632,
+      "lng": -122.4137383
+    }
+  },
+  "Cesar Chavez & Mission Street (Mission)": {
+    "address": "Cesar Chavez Street & Mission Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7482194,
+      "lng": -122.4182013
+    }
+  },
+  "Candlestick Park Exit, Highway 101": {
+    "address": "U.S. 101, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7366701,
+      "lng": -122.4076581
+    }
+  },
+  "Brocklebank Apartments (1000 Mason Street)": {
+    "address": "1000 Mason Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7929097,
+      "lng": -122.4109052
+    }
+  },
+  "Bay Bridge": {
+    "address": "Bay Bridge, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.8046191,
+      "lng": -122.3554512
+    }
+  },
+  "2700 Vallejo Street (Pacific Heights)": {
+    "address": "2700 Vallejo Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.794632,
+      "lng": -122.442027
+    }
+  },
+  "20th & Vermont Streets (Potrero Hill)": {
+    "address": "20th Street & Vermont Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7595713,
+      "lng": -122.4040164
+    }
+  },
+  "1153-57 Taylor Street": {
+    "address": "57 Taylor Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7829257,
+      "lng": -122.4109508
+    }
+  },
+  "California Academy of Sciences (Golden Gate Park)": {
+    "address": "California Academy of Sciences, 55 Music Concourse Drive, San Francisco, CA 94118, USA",
+    "geo": {
+      "lat": 37.7698646,
+      "lng": -122.4660947
+    }
+  },
+  "1400 18th Street": {
+    "address": "1400 18th Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7627009,
+      "lng": -122.3968332
+    }
+  },
+  "1627 Haight Street": {
+    "address": "1627 Haight Street, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.7697077,
+      "lng": -122.4492183
+    }
+  },
+  "Green Valley Restaurant (510 Green Street Near Grant)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Department of Public Health (101 Grove Street at Polk, Civic Center)": {
+    "address": "Civic Center, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7815533,
+      "lng": -122.4156427
+    }
+  },
+  "Royan Hotel (405 Valencia Street, Mission District)": {
+    "address": "405 Valencia Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7664141,
+      "lng": -122.4218881
+    }
+  },
+  "The Lexington Club (3464 19th Street at Lexington)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "101 Henry Adams Place": {
+    "address": "101 Henry Adams Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7681527,
+      "lng": -122.4034569
+    }
+  },
+  "Mission Delores Park (Mission District) via J-Church MUNI Train": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Li Po (916 Grant Avenue at Washington, Chinatown)": {
+    "address": "Chinatown, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7941378,
+      "lng": -122.4077914
+    }
+  },
+  "Golden Dragon Restaurant (816 Washington Street at Grant)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "387 Fair Oaks at 25th Street": {
+    "address": "387 Fair Oaks Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.750608,
+      "lng": -122.423581
+    }
+  },
+  "22nd and Carolina Streets (Potrero Hill)": {
+    "address": "22nd Street & Carolina Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7572327,
+      "lng": -122.3999821
+    }
+  },
+  "San Francisco Public Library Main Branch (100 Larkin Street)": {
+    "address": "100 Larkin Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.779159,
+      "lng": -122.415808
+    }
+  },
+  "Bix Restaurant (56 Gold Street)": {
+    "address": "56 Gold Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7969025,
+      "lng": -122.4029599
+    }
+  },
+  "Mission Delores (3321 16th Street, Mision District)": {
+    "address": "3321 16th Street, San Francisco, CA 94114, USA",
+    "geo": {
+      "lat": 37.7643821,
+      "lng": -122.4268206
+    }
+  },
+  "The Castro": {
+    "address": "The Castro, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7609082,
+      "lng": -122.4350043
+    }
+  },
+  "Twin Peaks": {
+    "address": "Twin Peaks, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7544066,
+      "lng": -122.4476845
+    }
+  },
+  "Sound Factory (1st and Harrison Streets)": {
+    "address": "Harrison Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.773256,
+      "lng": -122.4091853
+    }
+  },
+  "Java House (Pier 40, Embarcadero)": {
+    "address": "40 Pier, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7815904,
+      "lng": -122.3866351
+    }
+  },
+  "Alta Plaza Park": {
+    "address": "Alta Plaza Park, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7911417,
+      "lng": -122.4376241
+    }
+  },
+  "82 & 67 Rico Way (Marina District)": {
+    "address": "67 Rico Way, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.804986,
+      "lng": -122.439794
+    }
+  },
+  "24th Street between Mission Street and Potrero Avenue": {
+    "address": "Potrero Avenue, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.75791419999999,
+      "lng": -122.4067663
+    }
+  },
+  "La Rondalla (Valencia and 20th Streets)": {
+    "address": "20th Avenue, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7556165,
+      "lng": -122.4776446
+    }
+  },
+  "Filbert Steps, Filbert Street": {
+    "address": "Greenwich Steps, 231 Greenwich Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.80303809999999,
+      "lng": -122.4038063
+    }
+  },
+  "The Malloch Apartment Building (1360 Montgomery Street)": {
+    "address": "1360 Montgomery Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8017938,
+      "lng": -122.4043215
+    }
+  },
+  "California & Powell ": {
+    "address": "Jefferson St & Powell St, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.808594,
+      "lng": -122.413357
+    }
+  },
+  "Alioto Park": {
+    "address": "Alioto Park, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7588666,
+      "lng": -122.4181453
+    }
+  },
+  "Columbus & Pacific Ave": {
+    "address": "Columbus Avenue & Pacific Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7970914,
+      "lng": -122.4055862
+    }
+  },
+  "University Club": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Filbert St. from Hyde to Leavenworth": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "California St from Mason to Kearny": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Mission Delores Park (Mission District)": {
+    "address": "Mission Dolores Park, San Francisco, CA 94114, USA",
+    "geo": {
+      "lat": 37.7597727,
+      "lng": -122.427063
+    }
+  },
+  "Marina Green, Marina District": {
+    "address": "Marina Green Park, Golden Gate National Recreation Area, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.8066235,
+      "lng": -122.4391137
+    }
+  },
+  "Washington Square, North Beach": {
+    "address": "Washington Square Park, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8009182,
+      "lng": -122.410111
+    }
+  },
+  "The Embarcadero": {
+    "address": "Embarcadero, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7992627,
+      "lng": -122.3976732
+    }
+  },
+  "San Francisco Drydock (20th and Illinois Streets)": {
+    "address": "Illinois Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7561141,
+      "lng": -122.3871395
+    }
+  },
+  "Portsmouth Square (Chinatown)": {
+    "address": "Portsmouth Square Garage, 733 Kearny Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7948871,
+      "lng": -122.4052015
+    }
+  },
+  "Mt. Davidson Cross, Mt. Davidson": {
+    "address": "Mount Davidson Cross, 125 Dalewood Way, San Francisco, CA 94127, USA",
+    "geo": {
+      "lat": 37.737285,
+      "lng": -122.4558767
+    }
+  },
+  "Kezar Stadium, Golden Gate Park": {
+    "address": "Kezar Stadium, 670 Kezar Drive, San Francisco, CA 94118, USA",
+    "geo": {
+      "lat": 37.7667984,
+      "lng": -122.456045
+    }
+  },
+  "Holiday Inn Select Downtown Hotel (750 Kearney Street)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Forest Hill Station- MUNI": {
+    "address": "Forest Hill Muni Station, San Francisco, CA 94116, USA",
+    "geo": {
+      "lat": 37.748023,
+      "lng": -122.4591628
+    }
+  },
+  "Dante Building (1606 Stockton Street at Union)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "California Hall (625 Polk Street, Van Ness/Civic Center)": {
+    "address": "625 Van Ness Avenue, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7814657,
+      "lng": -122.4206462
+    }
+  },
+  "Bank of America Building (555 California Street)": {
+    "address": "555 Banks Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7363516,
+      "lng": -122.412915
+    }
+  },
+  "Powell & California Streets": {
+    "address": "Market Street & Powell Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.784602,
+      "lng": -122.4073293
+    }
+  },
+  "Market Street (from 6th- 4th Streets)": {
+    "address": "4th Avenue, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7738626,
+      "lng": -122.4616051
+    }
+  },
+  "Market & Steuart Streets (Financial District)": {
+    "address": "Market Street & Steuart Street, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7944889,
+      "lng": -122.3948012
+    }
+  },
+  "Mark Hopkins Intercontinental Hotel (1 Nob Hill Circle)": {
+    "address": "Officers' Club, Golden Gate National Recreation Area, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8060454,
+      "lng": -122.4263738
+    }
+  },
+  "Chambord Apartments (1298 Sacramento Street at Jones)": {
+    "address": "Jones Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7941378,
+      "lng": -122.4146698
+    }
+  },
+  "Westin St. Francis Hotel (335 Powell Street)": {
+    "address": "335 Powell Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7878172,
+      "lng": -122.408767
+    }
+  },
+  "Union Square": {
+    "address": "Union Square, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7879938,
+      "lng": -122.4074374
+    }
+  },
+  "Southern Pacific Memorial Hospital (1400 Fell Street)": {
+    "address": "1400 Fell Street, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.7734008,
+      "lng": -122.4418679
+    }
+  },
+  "The Embarcadero/ Ferry Building": {
+    "address": "THE EMBARCADERO/Ferry Building, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.795105,
+      "lng": -122.393861
+    }
+  },
+  "Webster Street": {
+    "address": "Webster Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.787926,
+      "lng": -122.4319622
+    }
+  },
+  "2107 Union Street": {
+    "address": "2107 Union Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.7971178,
+      "lng": -122.4340934
+    }
+  },
+  "2100 Green Street": {
+    "address": "2100 Green Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.796589,
+      "lng": -122.433981
+    }
+  },
+  "Gabbiano's Restaurant (Ferry Building)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Larkin & Hyde Streets": {
+    "address": "Hyde Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7937507,
+      "lng": -122.4179707
+    }
+  },
+  "Telegraph Hill Blvd (Telegraph Hill)": {
+    "address": "Telegraph Hill Boulevard, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8027822,
+      "lng": -122.4060027
+    }
+  },
+  "Fort Point (Presidio, Golden Gate National Recreation Area)": {
+    "address": "Fort Point, Marine Drive, San Francisco, CA 94129, USA",
+    "geo": {
+      "lat": 37.8105374,
+      "lng": -122.4770634
+    }
+  },
+  "South Park (Between 2nd and 3rd Streets, Brannan and Bryant Streets)": {
+    "address": "Bryant Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7732305,
+      "lng": -122.4060966
+    }
+  },
+  "West Chrissy Field (Presidio, Golden Gate National Recreation Area)": {
+    "address": "Crissy Field Overlook, Golden Gate National Recreation Area, San Francisco, CA 94129, USA",
+    "geo": {
+      "lat": 37.8041767,
+      "lng": -122.4694008
+    }
+  },
+  "Sacramento St., Between Pierce & Broderick Streets ": {
+    "address": "Broderick Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7878596,
+      "lng": -122.44211
+    }
+  },
+  "Hyde Street & Lombard Street": {
+    "address": "Hyde Street & Lombard Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8020032,
+      "lng": -122.4196662
+    }
+  },
+  "Building 924, Presido (Golden Gate National Recreation Area)": {
+    "address": "Golden Gate Bridge Pavilion, Golden Gate National Recreation Area, Golden Gate Bridge, San Francisco, CA 94129, USA",
+    "geo": {
+      "lat": 37.8077757,
+      "lng": -122.4748958
+    }
+  },
+  "Broadway, Between Franklin & Laguna Streets": {
+    "address": "Laguna Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7876638,
+      "lng": -122.4285534
+    }
+  },
+  "Baker Beach": {
+    "address": "Baker Beach, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7935724,
+      "lng": -122.483638
+    }
+  },
+  "Elbo Room (647 Valencia Street)": {
+    "address": "647 Valencia Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7625348,
+      "lng": -122.4214496
+    }
+  },
+  "Pier 39": {
+    "address": "PIER 39, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.80867300000001,
+      "lng": -122.409821
+    }
+  },
+  "Palace of Fine Arts (3301 Lyon Street)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "20th & Connecticut Streets (Potrero Hill)": {
+    "address": "20th Street & Connecticut Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.759969,
+      "lng": -122.3972531
+    }
+  },
+  "19 Green Street (North Beach)": {
+    "address": "19 Green Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.80069,
+      "lng": -122.3996025
+    }
+  },
+  "1138 Filbert Street": {
+    "address": "1138 Filbert Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.800566,
+      "lng": -122.418279
+    }
+  },
+  "Castro Theatre (429 Castro Street, The Castro)": {
+    "address": "429 Castro Street, San Francisco, CA 94114, USA",
+    "geo": {
+      "lat": 37.7620333,
+      "lng": -122.4347591
+    }
+  },
+  "North Beach Video (1398 Grant Avenue at Green)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Center for the Arts, Yerba Buena Gardens (701 Mission Street)": {
+    "address": "Mission Cultural Center for Latino Arts, 2868 Mission Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7509851,
+      "lng": -122.4185895
+    }
+  },
+  "Mario's Bohemian Cigar Store (Washington Square)": {
+    "address": "Washington Square Park, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8009182,
+      "lng": -122.410111
+    }
+  },
+  "Moose's Restaurant (1652 Stockton)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Roaring Twenties Nightclub (555 Broadway at Columbus)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "George Washington High School (600 32nd Avenue )": {
+    "address": "George Washington High School, 600 32nd Avenue, San Francisco, CA 94121, USA",
+    "geo": {
+      "lat": 37.7777663,
+      "lng": -122.4909162
+    }
+  },
+  "Wells Fargo Bank (1 California Street, Financial District)": {
+    "address": "1 California Street, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7936561,
+      "lng": -122.3964789
+    }
+  },
+  "The Sea Captain's Chest (Fisherman's Wharf)": {
+    "address": "Fisherman's Wharf, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.8079996,
+      "lng": -122.4177434
+    }
+  },
+  "Sheraton Palace Hotel (2 Montgomery Street, Financial District)": {
+    "address": "2 Montgomery Street, San Francisco, CA 94104, USA",
+    "geo": {
+      "lat": 37.7893521,
+      "lng": -122.4017967
+    }
+  },
+  "Candlestick Park": {
+    "address": "Candlestick Park, 490 Jamestown Avenue, San Francisco, CA 94124, USA",
+    "geo": {
+      "lat": 37.7135015,
+      "lng": -122.3863198
+    }
+  },
+  "2632 Larkin Street at Lombard": {
+    "address": "2632 Larkin Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.802317,
+      "lng": -122.421059
+    }
+  },
+  "100 St. Germain Avenue": {
+    "address": "100 Saint Germain Avenue, San Francisco, CA 94114, USA",
+    "geo": {
+      "lat": 37.757652,
+      "lng": -122.450526
+    }
+  },
+  "1 Monthgomery Street at Post": {
+    "address": "1 Montgomery Street, San Francisco, CA 94104, USA",
+    "geo": {
+      "lat": 37.7892598,
+      "lng": -122.4022427
+    }
+  },
+  "Nob Hill": {
+    "address": "Nob Hill, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.793014,
+      "lng": -122.416113
+    }
+  },
+  "2230 Sacramento Street": {
+    "address": "2230 Sacramento Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7905823,
+      "lng": -122.4305981
+    }
+  },
+  "Postcard Row (Alamo Square, Hayes Valley)": {
+    "address": "Hayes Valley, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7759073,
+      "lng": -122.4245247
+    }
+  },
+  "400 Montgomery Street": {
+    "address": "400 Montgomery Street, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7931585,
+      "lng": -122.4025313
+    }
+  },
+  "San Francisco General Hospital Medical Center (1001 Potrero Avenue, Potrero Hill)": {
+    "address": "1001 Potrero Avenue, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7563054,
+      "lng": -122.4045441
+    }
+  },
+  "90 Gold Street": {
+    "address": "90 Gold Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7967226,
+      "lng": -122.403448
+    }
+  },
+  "5th and Beale Streets": {
+    "address": "Beale Street, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7887056,
+      "lng": -122.3927701
+    }
+  },
+  "Kohl Building (400 Montgomery Street)": {
+    "address": "400 Montgomery Street, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7931585,
+      "lng": -122.4025313
+    }
+  },
+  "Varennes Alley between Filbert and Union": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Folsom Street & Embarcadero": {
+    "address": "The Embarcadero & Folsom St, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.790749,
+      "lng": -122.389841
+    }
+  },
+  "Westin St. Francis Hotel (335 Powell Street, Union Square)": {
+    "address": "335 Powell Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7878172,
+      "lng": -122.408767
+    }
+  },
+  "Presidio, Golden Gate National Recreation Area": {
+    "address": "Golden Gate Bridge Pavilion, Golden Gate National Recreation Area, Golden Gate Bridge, San Francisco, CA 94129, USA",
+    "geo": {
+      "lat": 37.8077757,
+      "lng": -122.4748958
+    }
+  },
+  "Public Health Service Hospital (Presidio, Golden Gate National Recreation Area)": {
+    "address": "Golden Gate Bridge Pavilion, Golden Gate National Recreation Area, Golden Gate Bridge, San Francisco, CA 94129, USA",
+    "geo": {
+      "lat": 37.8077757,
+      "lng": -122.4748958
+    }
+  },
+  "The Walden House, Buena Vista Park": {
+    "address": "Buena Vista Park, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.7682033,
+      "lng": -122.4417696
+    }
+  },
+  "Café Trieste (609 Vallejo)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "War Memorial Opera House (401 Van Ness Avenue)": {
+    "address": "401 Van Ness Avenue, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7795223,
+      "lng": -122.4210204
+    }
+  },
+  "Sutter & Buchannan Streets": {
+    "address": "Sutter Street & Buchanan Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7864983,
+      "lng": -122.4299484
+    }
+  },
+  "Sutter & Baker Streets": {
+    "address": "Sutter Street & Baker Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7848291,
+      "lng": -122.4431834
+    }
+  },
+  "Sokoji-Soto Zen Buddhist Temple (1691 Laguna Street)": {
+    "address": "Soto Zen Mission of San Francisco, 1691 Laguna Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7865095,
+      "lng": -122.4285783
+    }
+  },
+  "Sacramento & Hyde Streets (Nob Hill)": {
+    "address": "Hyde Street & Sacramento Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7919439,
+      "lng": -122.4175955
+    }
+  },
+  "Pawtrero Hill Bathhouse & Feed Co. (199 Mississippi Street)": {
+    "address": "199 Mississippi Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7641092,
+      "lng": -122.394573
+    }
+  },
+  "Octavia & Hayes Streets (Hayes Valley)": {
+    "address": "Hayes Street & Octavia Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.77672090000001,
+      "lng": -122.4243688
+    }
+  },
+  "Hayes Valley Care (601 Laguna Street, Hayes Valley)": {
+    "address": "601 Laguna Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7768864,
+      "lng": -122.4266889
+    }
+  },
+  "Laguna & Sacramento Streets (Pacific Heights)": {
+    "address": "Sacramento Street & Laguna Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7904641,
+      "lng": -122.4291355
+    }
+  },
+  "Montgomery & Pine Streets (Financial District)": {
+    "address": "Pine Street & Montgomery Street, San Francisco, CA 94104, USA",
+    "geo": {
+      "lat": 37.7919047,
+      "lng": -122.4026124
+    }
+  },
+  "Flood Building (870 Market Street)": {
+    "address": "Flood Building, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7849,
+      "lng": -122.4074
+    }
+  },
+  "Fiesta Laundromat (898 S. Van Ness Ave., Mission)": {
+    "address": "Mission, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7900769,
+      "lng": -122.3897415
+    }
+  },
+  "California & Larkin Streets (Nob Hill)": {
+    "address": "Larkin St & Grove St, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.778901,
+      "lng": -122.416545
+    }
+  },
+  "Asian Art Museum (200 Larkin Street, Civic Center)": {
+    "address": "Asian Art Museum, 200 Larkin Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7802635,
+      "lng": -122.4163842
+    }
+  },
+  "Andrew S. Hallidie Plaza (Market & Powell Streets)": {
+    "address": "Powell Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7965168,
+      "lng": -122.4101149
+    }
+  },
+  "430 Vallejo Street (Telegraph Hill)": {
+    "address": "430 Vallejo Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.79928,
+      "lng": -122.404632
+    }
+  },
+  "24th and Castro Streets (Noe Valley)": {
+    "address": "24th Street & Castro Street, San Francisco, CA 94114, USA",
+    "geo": {
+      "lat": 37.7512991,
+      "lng": -122.4340749
+    }
+  },
+  "Golden Gate & Steiner Streets (Hayes Valley)": {
+    "address": "Golden Gate Avenue & Steiner Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7793658,
+      "lng": -122.433641
+    }
+  },
+  "Fort Mason (Golden Gate National Recreation Area)": {
+    "address": "Golden Gate National Recreation Area, Fort Mason, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.8060595,
+      "lng": -122.4276138
+    }
+  },
+  "Fort Point, Presidio": {
+    "address": "Fort Point, Marine Drive, San Francisco, CA 94129, USA",
+    "geo": {
+      "lat": 37.8105374,
+      "lng": -122.4770634
+    }
+  },
+  "Candlestick Park (602 Jamestown Ave.)": {
+    "address": "Candlestick Park, 490 Jamestown Avenue, San Francisco, CA 94124, USA",
+    "geo": {
+      "lat": 37.7135015,
+      "lng": -122.3863198
+    }
+  },
+  "Alco Plaza": {
+    "address": "SSB 205, Creating Empowerment through Alcohol and Substance Abuse Education, San Francisco State University, San Francisco State University, 1600 Holloway Avenue, San Francisco, CA 94132, USA",
+    "geo": {
+      "lat": 37.7234578,
+      "lng": -122.480947
+    }
+  },
+  "TransAmerica Pyramid (600 Montgomery Street)": {
+    "address": "Transamerica Pyramid, 600 Montgomery Street, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7951616,
+      "lng": -122.4027282
+    }
+  },
+  "Stockton Tunnel (Stockton Street at Sutter Street)": {
+    "address": "Sutter Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7873702,
+      "lng": -122.4234239
+    }
+  },
+  "Hyatt Regency Hotel (5 Embarcadero Center)": {
+    "address": "5 Embarcadero Center, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7945892,
+      "lng": -122.3954468
+    }
+  },
+  "Folsom Street (SOMA)": {
+    "address": "Folsom Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7623444,
+      "lng": -122.4150575
+    }
+  },
+  "Broadway and Columbus Avenue (North Beach)": {
+    "address": "Broadway Street & Columbus Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7978825,
+      "lng": -122.4067348
+    }
+  },
+  "The Barbary Coast": {
+    "address": "Barbary Coast Trail, 900 Market Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.784196,
+      "lng": -122.40811
+    }
+  },
+  "755 Vallejo Street": {
+    "address": "755 Vallejo Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7984572,
+      "lng": -122.4098399
+    }
+  },
+  "The Tamalpias Building (1201 Greenwich Street at Hyde)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Neiman Marcus (150 Stockton Street, Union Square)": {
+    "address": "150 Stockton Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.787029,
+      "lng": -122.4062671
+    }
+  },
+  "First Bank (550 Montgomery Street at Commercial)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "140 Maiden Lane": {
+    "address": "140 Maiden Lane, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7882919,
+      "lng": -122.4059318
+    }
+  },
+  "Mason Street at Jackson": {
+    "address": "Jackson Street & Mason Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7954401,
+      "lng": -122.4115822
+    }
+  },
+  "M.H. de Young Memorial Museum (Golden Gate Park)": {
+    "address": "Golden Gate Park, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7694208,
+      "lng": -122.4862138
+    }
+  },
+  "Embarcadero Street Station- BART ": {
+    "address": "BART Station - 16th and Mission, 2000 Mission Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7647989,
+      "lng": -122.4199815
+    }
+  },
+  "California & Grant Streets": {
+    "address": "Francisco Street & Grant Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8053253,
+      "lng": -122.4085588
+    }
+  },
+  "War Memorial Building (401 Van Ness Avenue)": {
+    "address": "401 Van Ness Avenue, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7795223,
+      "lng": -122.4210204
+    }
+  },
+  "Sacramento & Washington Streets": {
+    "address": "Washington Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7937528,
+      "lng": -122.4176678
+    }
+  },
+  "Bush & Kearny": {
+    "address": "Bush Street & Kearny Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7907632,
+      "lng": -122.4040735
+    }
+  },
+  "Kearney & Pine St.": {
+    "address": "Pine Street & Kearny Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7916984,
+      "lng": -122.4042596
+    }
+  },
+  "California & Davis St": {
+    "address": "California St & Davis St, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.79342,
+      "lng": -122.397749
+    }
+  },
+  "Pine St. & Davis St": {
+    "address": "Pine Street & Davis Street, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7925788,
+      "lng": -122.3974538
+    }
+  },
+  "Sacramento & Front St.": {
+    "address": "Sacramento Street & Front Street, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7942958,
+      "lng": -122.3989831
+    }
+  },
+  "Broadway & Sansome": {
+    "address": "Broadway Street & Sansome Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7984455,
+      "lng": -122.4022486
+    }
+  },
+  "Broadway & Columbus": {
+    "address": "Broadway Street & Columbus Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7978825,
+      "lng": -122.4067348
+    }
+  },
+  "Post & Jones St.": {
+    "address": "Post Street & Jones Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7876866,
+      "lng": -122.4133539
+    }
+  },
+  "Stockton & Clay St": {
+    "address": "Clay Street & Stockton Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7940683,
+      "lng": -122.4079435
+    }
+  },
+  "Mission & Fremont St": {
+    "address": "Mission Street & Fremont Street, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7904586,
+      "lng": -122.3967196
+    }
+  },
+  "Eddy & Taylor St.": {
+    "address": "Taylor Street & Eddy Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7841527,
+      "lng": -122.4109767
+    }
+  },
+  "Pier 1": {
+    "address": "Port of San Francisco, Pier 1 The Embarcadero, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7969874,
+      "lng": -122.3951684
+    }
+  },
+  "Embarcadero & Washington": {
+    "address": "Drumm & Washington, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.796163,
+      "lng": -122.396831
+    }
+  },
+  "Mission & Beal": {
+    "address": "Mission Street & Beale Street, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7911592,
+      "lng": -122.3958262
+    }
+  },
+  "Potrero &San Bruno": {
+    "address": "16th St & San Bruno Ave, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.765861,
+      "lng": -122.405515
+    }
+  },
+  "Ross Alley (Chinatown)": {
+    "address": "Ross Alley, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7955378,
+      "lng": -122.4073916
+    }
+  },
+  "Buena Vista Park (Haight Street at Buena Vista)": {
+    "address": "Buena Vista Avenue East & Park Hill Avenue, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.7681801,
+      "lng": -122.4392915
+    }
+  },
+  "University of California Hastings College of the Law": {
+    "address": "UC Hastings College of the Law, 200 McAllister Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7808685,
+      "lng": -122.4156292
+    }
+  },
+  "Bush Street (between Grant & Kearny Streets)": {
+    "address": "Kearny Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7975623,
+      "lng": -122.4054395
+    }
+  },
+  "Bush and Sutter Streets": {
+    "address": "Sutter Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7873702,
+      "lng": -122.4234239
+    }
+  },
+  "Hayes Street at Laguna": {
+    "address": "Laguna Street & Hayes Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7764647,
+      "lng": -122.4262985
+    }
+  },
+  "435 23rd Street at Ilinois": {
+    "address": "435 23rd Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7552805,
+      "lng": -122.3845881
+    }
+  },
+  "634 Raycliff Terrace": {
+    "address": "Raycliff Terrace, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7927793,
+      "lng": -122.4427278
+    }
+  },
+  "Sutter Street between Powell and Mason": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Mel's Drive-In (Corner South Van Ness & Mission St.)": {
+    "address": "Mission Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7512064,
+      "lng": -122.4183545
+    }
+  },
+  "Conservatory of Flowers (Golden Gate Park)": {
+    "address": "Conservatory of Flowers, 100 John F Kennedy Drive, San Francisco, CA 94118, USA",
+    "geo": {
+      "lat": 37.7726683,
+      "lng": -122.4587578
+    }
+  },
+  "Sutro Baths (Point Lobos Avenue)": {
+    "address": "Sutro Baths, Golden Gate National Recreation Area, 680 Point Lobos Avenue, San Francisco, CA 94121, USA",
+    "geo": {
+      "lat": 37.7800418,
+      "lng": -122.5138375
+    }
+  },
+  "2810 Pacific Avenue": {
+    "address": "2810 Pacific Avenue, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.792743,
+      "lng": -122.442084
+    }
+  },
+  "City Lights Bookstore (261 Columbus)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "San Francisco Art Institute (800 Chestnut Street)": {
+    "address": "San Francisco Art Institute, 800 Chestnut Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.803376,
+      "lng": -122.417167
+    }
+  },
+  "Washington Square Bar & Grill (1707 Powell)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Muni Metro East (501 Cesar Chavez)": {
+    "address": "501 Cesar Chavez Street, San Francisco, CA 94124, USA",
+    "geo": {
+      "lat": 37.7500028,
+      "lng": -122.3827535
+    }
+  },
+  "Sheraton Palace Hotel (639 Market Street)": {
+    "address": "Palace Hotel, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7884,
+      "lng": -122.402
+    }
+  },
+  "Castagnola's Restaurant (Fisherman's Wharf)": {
+    "address": "Fisherman's Wharf, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.8079996,
+      "lng": -122.4177434
+    }
+  },
+  "Hobart Building (582 Market Street)": {
+    "address": "Hobart Building, San Francisco, CA 94104, USA",
+    "geo": {
+      "lat": 37.7894,
+      "lng": -122.4016
+    }
+  },
+  "1160 Taylor Street": {
+    "address": "1160 Taylor Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7932294,
+      "lng": -122.4127738
+    }
+  },
+  "The Final Final (2990 Baker Street)": {
+    "address": "2990 Baker Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.7985272,
+      "lng": -122.4457624
+    }
+  },
+  "Conservatory of Flowers, Golden Gate Park": {
+    "address": "Conservatory of Flowers, 100 John F Kennedy Drive, San Francisco, CA 94118, USA",
+    "geo": {
+      "lat": 37.7726683,
+      "lng": -122.4587578
+    }
+  },
+  "Vesuvio Café (255 Columbus Avenue)": {
+    "address": "255 Columbus Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7974835,
+      "lng": -122.4065082
+    }
+  },
+  "391 Pennsylvania Avnue at 19th Street": {
+    "address": "391 Pennsylvania Avenue, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.761621,
+      "lng": -122.393173
+    }
+  },
+  "Maiden Lane": {
+    "address": "Maiden Lane, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7882406,
+      "lng": -122.4052008
+    }
+  },
+  "Condor Club (Columbus and Broadway)": {
+    "address": "Broadway Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7959341,
+      "lng": -122.4219451
+    }
+  },
+  "Chase H & Q  (1 Bush Street at Sansome)": {
+    "address": "Bush Street & Sansome Street, San Francisco, CA 94104, USA",
+    "geo": {
+      "lat": 37.7911916,
+      "lng": -122.400774
+    }
+  },
+  "Pier 39 (Fisherman's Wharf)": {
+    "address": "PIER 39, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.80867300000001,
+      "lng": -122.409821
+    }
+  },
+  "Marriot Hotel (55 4th Street at Market)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Vallejo Street at Sansome": {
+    "address": "Vallejo Street & Sansome Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7993922,
+      "lng": -122.4024386
+    }
+  },
+  "Telegraph Hill": {
+    "address": "Telegraph Hill, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.8013407,
+      "lng": -122.4056674
+    }
+  },
+  "Administration Building (Treasure Island)": {
+    "address": "Treasure Island, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.8235515,
+      "lng": -122.370648
+    }
+  },
+  "Mark Hopkins Intercontinental Hotel (1 Nob Hill Circle, Nob Hill)": {
+    "address": "1 Nob Hill Place, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7914046,
+      "lng": -122.4101888
+    }
+  },
+  "100 Market Street at 6th Street": {
+    "address": "100 Market Street, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7942635,
+      "lng": -122.3955861
+    }
+  },
+  "6th Street On-ramp to Highway 280": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Bimbo's 365 Club (1025 Columbus Avenue, North Beach)": {
+    "address": "1025 Columbus Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8037005,
+      "lng": -122.4155782
+    }
+  },
+  "32 Napier Lane": {
+    "address": "32 Napier Lane, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.802602,
+      "lng": -122.403852
+    }
+  },
+  "1227 Montgomery Street (Telegraph Hill)": {
+    "address": "1227 Montgomery Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8004632,
+      "lng": -122.4045382
+    }
+  },
+  "Broadway Tunnel (Russian Hill)": {
+    "address": "Broadway Tunnel West Mini Park, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7964329,
+      "lng": -122.4173931
+    }
+  },
+  "United Nations Plaza (Civic Center)": {
+    "address": "United Nations Plaza, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7800112,
+      "lng": -122.4136578
+    }
+  },
+  "720 Steiner Street (Hayes Valley)": {
+    "address": "720 Steiner Street, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.776381,
+      "lng": -122.432742
+    }
+  },
+  "Pier 33 (Embarcadero)": {
+    "address": "Pier 33, 1398 The Embarcadero, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8078175,
+      "lng": -122.4046414
+    }
+  },
+  "Hamlin Hotel (385 Eddy Street)": {
+    "address": "385 Eddy Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.78356,
+      "lng": -122.413863
+    }
+  },
+  "Lafayette Park (Pacific Heights)": {
+    "address": "Lafayette Park, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7916146,
+      "lng": -122.4276133
+    }
+  },
+  "Ramada Plaza Hotel Downtown (1231 Market Street, Civic Center)": {
+    "address": "1231 Market Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7784671,
+      "lng": -122.4150926
+    }
+  },
+  "Transamerica Building (600 Montgomery Street at Clay)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "The Ferry Building": {
+    "address": "S.F. Ferry Building, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.79592299999999,
+      "lng": -122.392052
+    }
+  },
+  "Grant Avenue (North Beach)": {
+    "address": "Grant Avenue, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7974931,
+      "lng": -122.406982
+    }
+  },
+  "1 Post Street": {
+    "address": "1 Post Street, San Francisco, CA 94104, USA",
+    "geo": {
+      "lat": 37.788838,
+      "lng": -122.4027153
+    }
+  },
+  "Chrissy Field": {
+    "address": "Crissy Field, Golden Gate National Recreation Area, 1199 East Beach, San Francisco, CA 94129, USA",
+    "geo": {
+      "lat": 37.8039069,
+      "lng": -122.4640618
+    }
+  },
+  "Hunters Point": {
+    "address": "Hunters Point, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7276095,
+      "lng": -122.3702611
+    }
+  },
+  "Fior d' Italia (601 Union Street at Stockton)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Japanese Tea Garden (Hagiwara Tea Garden Drive, Golden Gate Park)": {
+    "address": "Japanese Tea Garden, 75 Hagiwara Tea Garden Drive, San Francisco, CA 94118, USA",
+    "geo": {
+      "lat": 37.7702043,
+      "lng": -122.4701584
+    }
+  },
+  "Washington Square (North Beach)": {
+    "address": "Washington Square Park, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8009182,
+      "lng": -122.410111
+    }
+  },
+  "Lombard & Hyde Streets": {
+    "address": "Hyde Street & Lombard Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8020032,
+      "lng": -122.4196662
+    }
+  },
+  "901 Union Street": {
+    "address": "901 Union Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.79961900000001,
+      "lng": -122.41434
+    }
+  },
+  "610 Rhode Island Street (Potrero Hill)": {
+    "address": "610 Rhode Island Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7619169,
+      "lng": -122.402566
+    }
+  },
+  "Hang Ah Alley (Chinatown)": {
+    "address": "Hang Ah Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7941248,
+      "lng": -122.4075468
+    }
+  },
+  "Horace Mann School (3351 23rd Street)": {
+    "address": "3351 23rd Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7535332,
+      "lng": -122.4199993
+    }
+  },
+  "375 Laguna Honda Blvd.": {
+    "address": "375 Laguna Honda Boulevard, San Francisco, CA 94116, USA",
+    "geo": {
+      "lat": 37.747287,
+      "lng": -122.4592344
+    }
+  },
+  "180 Manchester Street": {
+    "address": "180 Manchester Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.744204,
+      "lng": -122.414328
+    }
+  },
+  "2552 Hyde Street": {
+    "address": "2552 Hyde Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.804561,
+      "lng": -122.419872
+    }
+  },
+  "Chinatown Gate": {
+    "address": "Chinatown San Francisco, Stockton Street Tunnel, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.794565,
+      "lng": -122.40783
+    }
+  },
+  "Hyatt Fisherman's Wharf (555 Northpoint Street)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "722 Steiner Street": {
+    "address": "722 Steiner Street, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.776454,
+      "lng": -122.432757
+    }
+  },
+  "Market Street Between Noe and Sanchez": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Green & Laguna Streets": {
+    "address": "Green Street & Laguna Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.7967852,
+      "lng": -122.4303409
+    }
+  },
+  "California & Hyde Streets": {
+    "address": "Golden Gate Ave & Hyde St, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.78166,
+      "lng": -122.41509
+    }
+  },
+  "Lusty Lady Bar (North Beach)": {
+    "address": "North Beach, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.8060532,
+      "lng": -122.4103311
+    }
+  },
+  "Muni line N- Judah": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Sutro Baths  ": {
+    "address": "Sutro Baths, Golden Gate National Recreation Area, 680 Point Lobos Avenue, San Francisco, CA 94121, USA",
+    "geo": {
+      "lat": 37.7800418,
+      "lng": -122.5138375
+    }
+  },
+  "Market & Church St.": {
+    "address": "Church St & 22nd St, San Francisco, CA 94114, USA",
+    "geo": {
+      "lat": 37.754785,
+      "lng": -122.427659
+    }
+  },
+  "Jawbone at 99 Rhode Island St. ": {
+    "address": "99 Rhode Island Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7689205,
+      "lng": -122.4025612
+    }
+  },
+  "Willy's Barber Shop": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Urban Flowers": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "770 Haight St": {
+    "address": "770 Haight Street, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.771831,
+      "lng": -122.43489
+    }
+  },
+  "Eros": {
+    "address": "Room M-109, SFSU Education and Referral Organization for Sexuality, San Francisco State University, 1650 Holloway Avenue, San Francisco, CA 94132, USA",
+    "geo": {
+      "lat": 37.7223233,
+      "lng": -122.4786738
+    }
+  },
+  "Doc's Clock": {
+    "address": "Docs Clock, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7900978,
+      "lng": -122.3905824
+    }
+  },
+  "Starbucks at 333 O'Farrell St.": {
+    "address": "333 O'Farrell Street, San Francisco, CA 94118, USA",
+    "geo": {
+      "lat": 37.7859447,
+      "lng": -122.4110567
+    }
+  },
+  "Castro St. from Market to 18th St.": {
+    "address": "18th Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7620384,
+      "lng": -122.41611
+    }
+  },
+  "The Fairmont": {
+    "address": "Fairmont San Francisco, 950 Mason Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7924958,
+      "lng": -122.4100354
+    }
+  },
+  "1890 Clay St.": {
+    "address": "1890 Clay Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7921495,
+      "lng": -122.4239264
+    }
+  },
+  "2000 Folsom": {
+    "address": "2000 Folsom Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.765015,
+      "lng": -122.415715
+    }
+  },
+  "Mission Arts Center": {
+    "address": "Mission Cultural Center for Latino Arts, 2868 Mission Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7509851,
+      "lng": -122.4185895
+    }
+  },
+  "2413 Harrison St.": {
+    "address": "2413 Harrison Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.75856599999999,
+      "lng": -122.412151
+    }
+  },
+  "Muddy Waters Coffee House": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Valencia St. from 16th to 17th": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Orphan Andy's": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Casa Lucas Market at 2934 24th St": {
+    "address": "2934 24th Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7529387,
+      "lng": -122.4107722
+    }
+  },
+  "Punjab": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "BART from Civic Center to 24th St.": {
+    "address": "24th Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7525362,
+      "lng": -122.4135358
+    }
+  },
+  "Fulsom Street Fair on Fulsom St.": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Fort Funston": {
+    "address": "Fort Funston National Park, San Francisco, CA 94118, USA",
+    "geo": {
+      "lat": 37.7163014,
+      "lng": -122.5025354
+    }
+  },
+  "Tiburon Hiking Trail, Tiburon, CA": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Presidio Church at 130 Fisher Loop": {
+    "address": "Golden Gate National Recreation Area, 130 Fisher Loop, San Francisco, CA 94129, USA",
+    "geo": {
+      "lat": 37.7992679,
+      "lng": -122.4618982
+    }
+  },
+  "222 Mason St. ": {
+    "address": "222 Mason Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7860672,
+      "lng": -122.4092521
+    }
+  },
+  "601 Buena Vista West": {
+    "address": "601 Buena Vista Avenue West, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.76696829999999,
+      "lng": -122.4437158
+    }
+  },
+  "The Stud": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "2866 24th St.": {
+    "address": "2866 24th Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7529677,
+      "lng": -122.4097206
+    }
+  },
+  "24th and Church St. ": {
+    "address": "24th Street & Church Street, San Francisco, CA 94114, USA",
+    "geo": {
+      "lat": 37.7517046,
+      "lng": -122.427349
+    }
+  },
+  "Church and Duboce Muni Station": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "St. Francis Fountain": {
+    "address": "Fountain Street, San Francisco, CA 94114, USA",
+    "geo": {
+      "lat": 37.7508373,
+      "lng": -122.4416756
+    }
+  },
+  "The Marsh Theatre (1062 Valencia Street)": {
+    "address": "1062 Valencia Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7558531,
+      "lng": -122.4212321
+    }
+  },
+  "20 Hill Street": {
+    "address": "20 Hill Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.756288,
+      "lng": -122.422018
+    }
+  },
+  "198 Gough Street": {
+    "address": "198 Gough Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7750315,
+      "lng": -122.422605
+    }
+  },
+  "280 Freeway at Pennsylvania and Mariposa Streets": {
+    "address": "Bayshore Freeway, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7089495,
+      "lng": -122.3952172
+    }
+  },
+  "2190 Washington Street (Pacific Heights)": {
+    "address": "2190 Washington Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.792541,
+      "lng": -122.429151
+    }
+  },
+  "18th Street Overpass (Potrero Hill)": {
+    "address": "18th Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7620384,
+      "lng": -122.41611
+    }
+  },
+  "Cost Plus World Market (2552 Taylor Street)": {
+    "address": "2552 Taylor Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.805808,
+      "lng": -122.414384
+    }
+  },
+  "Vermont Street between 20th and 22nd Streets": {
+    "address": "22nd Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7558338,
+      "lng": -122.4122209
+    }
+  },
+  "Pacific Heights Towers (2200 Sacramento Street, Pacific Heights)": {
+    "address": "2200 Sacramento Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.790681,
+      "lng": -122.429498
+    }
+  },
+  "On Board the SS President Cleveland, docked at Pier 50": {
+    "address": "Pier 50, San Francisco, CA 94158, USA",
+    "geo": {
+      "lat": 37.77389429999999,
+      "lng": -122.3848019
+    }
+  },
+  "St. Elizabeth Apartment House (901 Powell Street at Sacramento)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "722 Steiner Street (Postcard Row, Alamo Square, Hayes Valley)": {
+    "address": "Hayes Valley, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7759073,
+      "lng": -122.4245247
+    }
+  },
+  "Bush Street at Jones": {
+    "address": "Bush Street & Jones Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7895596,
+      "lng": -122.4137276
+    }
+  },
+  "Lower Haight Street": {
+    "address": "Haight Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7712749,
+      "lng": -122.4371285
+    }
+  },
+  "Marine Fireman's Union Headquarters": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Market & Castro Street": {
+    "address": "Market St & Castro St, Castro Street, San Francisco, CA 94114, USA",
+    "geo": {
+      "lat": 37.7623374,
+      "lng": -122.4350229
+    }
+  },
+  "El Camino Del Mar": {
+    "address": "El Camino Del Mar, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7857816,
+      "lng": -122.4962215
+    }
+  },
+  "29th and Delores Street": {
+    "address": "Dolores Street & 29th Street, San Francisco, CA 94131, USA",
+    "geo": {
+      "lat": 37.7438311,
+      "lng": -122.4244862
+    }
+  },
+  "424 Sansome Street": {
+    "address": "424 Sansome Street, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.79422470000001,
+      "lng": -122.4013805
+    }
+  },
+  "Duboce Park": {
+    "address": "Duboce Park, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.7694223,
+      "lng": -122.433453
+    }
+  },
+  "The 500 Club (500 Guerrero Street, Mission District)": {
+    "address": "500 Guerrero Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7630363,
+      "lng": -122.4241888
+    }
+  },
+  "520-522A Green Street at Grant Street": {
+    "address": "Green Street & Grant Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7997174,
+      "lng": -122.4074187
+    }
+  },
+  "100 Embarcadero Street": {
+    "address": "835 Market Street #100, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.78438939999999,
+      "lng": -122.4067515
+    }
+  },
+  "516 Green Street": {
+    "address": "516 Green Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7998378,
+      "lng": -122.4078056
+    }
+  },
+  "1200 Washington Street at Taylor Street": {
+    "address": "1200 Washington Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7944792,
+      "lng": -122.4131705
+    }
+  },
+  "Hancock School (940 Filbert Street)": {
+    "address": "940 Filbert Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8007185,
+      "lng": -122.4148445
+    }
+  },
+  "Danilo's Bakery (Green Street & Bannam Place)": {
+    "address": "Bannam Place, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8006262,
+      "lng": -122.4079371
+    }
+  },
+  "Pier 7": {
+    "address": "Pier 7, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.8001077,
+      "lng": -122.3943664
+    }
+  },
+  "Alamo Square": {
+    "address": "Alamo Square, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.77634219999999,
+      "lng": -122.4346334
+    }
+  },
+  "1821 Alabama St. ": {
+    "address": "1821 Alabama Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7440039,
+      "lng": -122.41009
+    }
+  },
+  "Cameron House 920 Sacramento St. ": {
+    "address": "920 Sacramento Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7932449,
+      "lng": -122.4084763
+    }
+  },
+  "Naked Lunch": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "9 Calhoun Terrace": {
+    "address": "9 Calhoun Terrace, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.80080950000001,
+      "lng": -122.4038203
+    }
+  },
+  "Washington Square on Filbert & Stockton": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "AT&T Park": {
+    "address": "AT&T Park, 24 Willie Mays Plaza, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7785951,
+      "lng": -122.3892698
+    }
+  },
+  "China Basin on Berry St": {
+    "address": "Berry Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7733825,
+      "lng": -122.3964267
+    }
+  },
+  "Kearney St. from Broadway to Pacific": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Chouguet's (2500 Washington Street)": {
+    "address": "2500 Washington Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7917872,
+      "lng": -122.4345688
+    }
+  },
+  "Triton Hotel (342 Grant Street)": {
+    "address": "342 Grant Avenue, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7903481,
+      "lng": -122.4054242
+    }
+  },
+  "O'Farrell & Jones Streets": {
+    "address": "O'Farrell Street & Jones Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7858192,
+      "lng": -122.4129961
+    }
+  },
+  "500 Club (500 Guerrero)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "3122 16th Street": {
+    "address": "3122 16th Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7650275,
+      "lng": -122.422579
+    }
+  },
+  "Grant Avenue & Union Street": {
+    "address": "Union Street & Grant Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.800664,
+      "lng": -122.4076098
+    }
+  },
+  "Mason St from Pine to Sacramento": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Powell St. from Geary to Sacramento": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "California St from Taylor to Powell": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Embarcadero from Broadway to Folsom": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Jack Kerouac Alley between Columbus & Grant Streets": {
+    "address": "Grant Avenue, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7974931,
+      "lng": -122.406982
+    }
+  },
+  "Pierce Street between Pacific & Green Streets": {
+    "address": "Green Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7977381,
+      "lng": -122.42297
+    }
+  },
+  "Montgomery & Vallejo Streets": {
+    "address": "Montgomery Street & Vallejo Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.799174,
+      "lng": -122.4040675
+    }
+  },
+  "Marathon Plaza (303 2nd Street)": {
+    "address": "303 2nd Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7857659,
+      "lng": -122.3958604
+    }
+  },
+  "Jones Street at Bush": {
+    "address": "Bush Street & Jones Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7895596,
+      "lng": -122.4137276
+    }
+  },
+  "Belli Building (722 Montgomery Street at Washington)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "60 Spear Street": {
+    "address": "60 Spear Street, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7925749,
+      "lng": -122.3945751
+    }
+  },
+  "101 Henry Adams Place, 4th Floor": {
+    "address": "101 Henry Adams Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7681527,
+      "lng": -122.4034569
+    }
+  },
+  "Wasteland Store (1600 Haight Street)": {
+    "address": "1600 Haight Street, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.769961,
+      "lng": -122.448967
+    }
+  },
+  "Star's Café (55 Golden Gate Avenue at Van Ness)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Albert S. Samuels Clock (856 Market Street between Powell and Stockton)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Belgravia Apartments (795 Sutter Street at Jones)": {
+    "address": "Jones Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7941378,
+      "lng": -122.4146698
+    }
+  },
+  "Sacramento & Montgomery Streets": {
+    "address": "Montgomery Street & Sacramento Street, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7937916,
+      "lng": -122.402996
+    }
+  },
+  "Filbert & Leavenworth Streets": {
+    "address": "Filbert Street & Leavenworth Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8003487,
+      "lng": -122.4176339
+    }
+  },
+  "2017 23rd Street": {
+    "address": "2017 23rd Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.754504,
+      "lng": -122.400041
+    }
+  },
+  "Financial District": {
+    "address": "Financial District, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7945742,
+      "lng": -122.3999445
+    }
+  },
+  "Texas & 19th Streets (Potrero Hill)": {
+    "address": "19th Street & Texas Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.761359,
+      "lng": -122.395438
+    }
+  },
+  "Barbary Coast": {
+    "address": "Barbary Coast, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7900411,
+      "lng": -122.3906156
+    }
+  },
+  "Spreckles Mansion (2080 Washington Street, Pacific Heights)": {
+    "address": "2080 Washington Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.792733,
+      "lng": -122.427541
+    }
+  },
+  "Larkin & Fulton": {
+    "address": "Fulton Street & Larkin Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7795923,
+      "lng": -122.4167887
+    }
+  },
+  "Fibert from Hyde to Leavenworth": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Columbus and Green": {
+    "address": "Columbus Avenue & Green Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7995158,
+      "lng": -122.4089471
+    }
+  },
+  "Embarcadero & Market": {
+    "address": "Steuart St & Market St, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.794427,
+      "lng": -122.39455
+    }
+  },
+  "Presidio (Golden Gate National Recreation Area)": {
+    "address": "Golden Gate Bridge Pavilion, Golden Gate National Recreation Area, Golden Gate Bridge, San Francisco, CA 94129, USA",
+    "geo": {
+      "lat": 37.8077757,
+      "lng": -122.4748958
+    }
+  },
+  "Bank of America (38th Street at Balboa Street)": {
+    "address": "Balboa Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7762744,
+      "lng": -122.4849869
+    }
+  },
+  "Cala Foods (California Street and Hyde)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "2417 Franklin Street": {
+    "address": "2417 Franklin Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.79669,
+      "lng": -122.425606
+    }
+  },
+  "Japanese Tea Garden, Hagiwara Tea Garden Drive, Golden Gate Park": {
+    "address": "Japanese Tea Garden, 75 Hagiwara Tea Garden Drive, San Francisco, CA 94118, USA",
+    "geo": {
+      "lat": 37.7702043,
+      "lng": -122.4701584
+    }
+  },
+  "307 Filbert Street": {
+    "address": "307 Filbert Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8018463,
+      "lng": -122.4050336
+    }
+  },
+  "15-17 Fresno Street": {
+    "address": "17 Fresno Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7986421,
+      "lng": -122.4059833
+    }
+  },
+  "Balboa at 22nd Avenue": {
+    "address": "Balboa Street & 22nd Avenue, San Francisco, CA 94121, USA",
+    "geo": {
+      "lat": 37.7764455,
+      "lng": -122.481262
+    }
+  },
+  "The Music Concourse (Martin Luther King, Jr. Drive, Golden Gate Park)": {
+    "address": "Golden Gate Park, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7694208,
+      "lng": -122.4862138
+    }
+  },
+  "Surf Theater (4520 Irving Street)": {
+    "address": "4520 Irving Street, San Francisco, CA 94122, USA",
+    "geo": {
+      "lat": 37.762512,
+      "lng": -122.506526
+    }
+  },
+  "Pacific Stock Exchange": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "McLaren Lodge": {
+    "address": "McLaren Lodge, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.7718604,
+      "lng": -122.4547115
+    }
+  },
+  "Bechelli's Flower Market Café": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "923 Vermont St.": {
+    "address": "923 Vermont Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.757972,
+      "lng": -122.403544
+    }
+  },
+  "Geary from 22nd Ave to Arguello": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Clement St. from 6th to 7th Ave. ": {
+    "address": "7th Avenue, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7734585,
+      "lng": -122.4647989
+    }
+  },
+  "Wine Impression": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Clement St. from 5th and 7th Ave. ": {
+    "address": "7th Avenue, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7734585,
+      "lng": -122.4647989
+    }
+  },
+  "Claire Lilienthal Elementary School": {
+    "address": "Claire Lilienthal Elementary School - Madison Campus, 3950 Sacramento Street, San Francisco, CA 94118, USA",
+    "geo": {
+      "lat": 37.7868956,
+      "lng": -122.4577854
+    }
+  },
+  "Yerba Buena Gardens": {
+    "address": "Yerba Buena Gardens, 750 Howard Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.785094,
+      "lng": -122.4027396
+    }
+  },
+  "Cal-Mart Supermarket": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "4015 21st St": {
+    "address": "4015 21st Street, San Francisco, CA 94114, USA",
+    "geo": {
+      "lat": 37.7558269,
+      "lng": -122.436096
+    }
+  },
+  "Tank Hill Park": {
+    "address": "Tank Hill Park, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.7600983,
+      "lng": -122.4477854
+    }
+  },
+  "1536 Noe St.": {
+    "address": "1536 Noe Street, San Francisco, CA 94131, USA",
+    "geo": {
+      "lat": 37.74447,
+      "lng": -122.431527
+    }
+  },
+  "24 Hill St.": {
+    "address": "24 Hill Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.756276,
+      "lng": -122.422225
+    }
+  },
+  "21st St & Sanchez": {
+    "address": "Sanchez Street & 21st Street, San Francisco, CA 94114, USA",
+    "geo": {
+      "lat": 37.7563644,
+      "lng": -122.4300597
+    }
+  },
+  "Magic Theater (Fort Mason, Golden Gate National Recreation Area)": {
+    "address": "Golden Gate National Recreation Area, Fort Mason, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.8060595,
+      "lng": -122.4276138
+    }
+  },
+  "Golden Gate Ave & Jones": {
+    "address": "Golden Gate Avenue & Jones Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7820851,
+      "lng": -122.4122427
+    }
+  },
+  "York & 24th St.": {
+    "address": "24th Street & York Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7528654,
+      "lng": -122.4082022
+    }
+  },
+  "2nd St & Howard": {
+    "address": "2nd Street & Howard Street, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7867936,
+      "lng": -122.3982678
+    }
+  },
+  "Broadway & Taylor": {
+    "address": "Broadway Street & Taylor Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7970376,
+      "lng": -122.413529
+    }
+  },
+  "Mason & Sacramento St": {
+    "address": "Sacramento Street & Mason Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7927865,
+      "lng": -122.4110305
+    }
+  },
+  "Geary & 27th Ave": {
+    "address": "Geary Boulevard & 27th Avenue, San Francisco, CA 94121, USA",
+    "geo": {
+      "lat": 37.780062,
+      "lng": -122.4868722
+    }
+  },
+  "Geary & 20th Ave": {
+    "address": "Geary Boulevard & 20th Avenue, San Francisco, CA 94121, USA",
+    "geo": {
+      "lat": 37.7802754,
+      "lng": -122.4793726
+    }
+  },
+  "Pioneer Park at Coit Tower": {
+    "address": "Coit Tower, 1 Telegraph Hill Boulevard, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8023949,
+      "lng": -122.4058222
+    }
+  },
+  "Vallejo Street Garage": {
+    "address": "North Beach Parking Garage, 735 Vallejo Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7982292,
+      "lng": -122.4096139
+    }
+  },
+  "Broadway and Kearney": {
+    "address": "Broadway Street & Kearny Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7980275,
+      "lng": -122.4055358
+    }
+  },
+  "Embarcadero Street": {
+    "address": "Embarcadero North Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8089085,
+      "lng": -122.41427
+    }
+  },
+  "Stage Work, 47 Julian St.": {
+    "address": "47 Julian Avenue, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7674338,
+      "lng": -122.4211415
+    }
+  },
+  "Hyde St. at Greenwich and Hyde St. at Lombard": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Asia Star Fantasy, 1126 Grant Ave.": {
+    "address": "1126 Grant Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7973082,
+      "lng": -122.4069262
+    }
+  },
+  "2nd St. at Townsend St.": {
+    "address": "2nd Street & Townsend Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7806303,
+      "lng": -122.3905427
+    }
+  },
+  "Jefferson St. at Powell St.": {
+    "address": "Powell Street & Jefferson Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.808611,
+      "lng": -122.4125379
+    }
+  },
+  "Grant St. at Bush St.": {
+    "address": "Bush Street & Grant Avenue, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7905548,
+      "lng": -122.4056239
+    }
+  },
+  "Vallejo Garage Roof (Vallejo at Powell)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Clay St. at Taylor": {
+    "address": "Clay Street & Taylor Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7934572,
+      "lng": -122.4128401
+    }
+  },
+  "Bay St. at Polk": {
+    "address": "Bay Street & Polk Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8043698,
+      "lng": -122.423485
+    }
+  },
+  "Intersection of Lombard and Hyde": {
+    "address": "Hyde Street & Lombard Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8020032,
+      "lng": -122.4196662
+    }
+  },
+  "Mission between 3rd and 4th St.": {
+    "address": "4th Street, San Francisco, CA 94130, USA",
+    "geo": {
+      "lat": 37.82156150000001,
+      "lng": -122.3685102
+    }
+  },
+  "555 California": {
+    "address": "#555, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7852531,
+      "lng": -122.4089972
+    }
+  },
+  "Grant between Bush and Market": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Washington Square": {
+    "address": "Washington Square Park, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8009182,
+      "lng": -122.410111
+    }
+  },
+  "Battery Spencer": {
+    "address": "Battery Spencer, Golden Gate National Recreation Area, Mill Valley, CA 94941, USA",
+    "geo": {
+      "lat": 37.8276735,
+      "lng": -122.4818286
+    }
+  },
+  "Pier 43": {
+    "address": "Pier 43, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8090456,
+      "lng": -122.4144998
+    }
+  },
+  "Vallejo St. Garage, 766 Vallejo St.": {
+    "address": "766 Vallejo Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7986593,
+      "lng": -122.4099628
+    }
+  },
+  "Fort Baker": {
+    "address": "Golden Gate National Recreation Area, Fort Baker Road, Sausalito, CA 94965, USA",
+    "geo": {
+      "lat": 37.8439747,
+      "lng": -122.477944
+    }
+  },
+  "AT&T Stadium": {
+    "address": "AT&T Park, 24 Willie Mays Plaza, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7785951,
+      "lng": -122.3892698
+    }
+  },
+  "Water work in SF Bay": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Atlas Café, 3049 20th St.": {
+    "address": "3049 20th Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.758923,
+      "lng": -122.4114353
+    }
+  },
+  "\"Metzger's Apt\" 151 Alice B. Toklas Pl.": {
+    "address": "1000 Van Ness, 151 Alice B Toklas, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7850997,
+      "lng": -122.4205869
+    }
+  },
+  "Van Ness and 12th St.": {
+    "address": "South Van Ness Avenue & 12th Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.77362300000001,
+      "lng": -122.4188826
+    }
+  },
+  "Palace of Fine Arts: 3306 Lyon St.": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Dolores Park, 20th St. between Church & Dolores St.": {
+    "address": "Dolores Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7547371,
+      "lng": -122.4255079
+    }
+  },
+  "Irving St. at 9th Ave.": {
+    "address": "Irving Street & 9th Avenue, San Francisco, CA 94122, USA",
+    "geo": {
+      "lat": 37.7640492,
+      "lng": -122.4663219
+    }
+  },
+  "Laguna Honda Hospital; 375 Laguna Honda Blvd.": {
+    "address": "Laguna Honda Hospital and Rehabilitation Center, 375 Laguna Honda Boulevard, San Francisco, CA 94116, USA",
+    "geo": {
+      "lat": 37.7472916,
+      "lng": -122.4590442
+    }
+  },
+  "Vallejo Street Garage; 766 Vallejo St.": {
+    "address": "766 Vallejo Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7986593,
+      "lng": -122.4099628
+    }
+  },
+  "Grand View Ave.": {
+    "address": "Grand View Avenue, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7533029,
+      "lng": -122.4419191
+    }
+  },
+  "Market St. overpass": {
+    "address": "Market Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7736854,
+      "lng": -122.421034
+    }
+  },
+  "Romain St.": {
+    "address": "Romain Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7562192,
+      "lng": -122.4409989
+    }
+  },
+  "Corbett St.": {
+    "address": "Corbett Avenue, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7561696,
+      "lng": -122.4432371
+    }
+  },
+  "375 Castro St. and 17th between Castro and Diamond St.": {
+    "address": "Diamond Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7475676,
+      "lng": -122.4359476
+    }
+  },
+  "Z Space Studios; 450 Florida St.": {
+    "address": "450 Florida Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.76370259999999,
+      "lng": -122.411551
+    }
+  },
+  "20th": {
+    "address": "20th Avenue, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7556165,
+      "lng": -122.4776446
+    }
+  },
+  "Harrison": {
+    "address": "Harrison Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.773256,
+      "lng": -122.4091853
+    }
+  },
+  "22nd St.": {
+    "address": "22nd Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7558338,
+      "lng": -122.4122209
+    }
+  },
+  "S. Van Ness": {
+    "address": "South Van Ness Avenue, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7668075,
+      "lng": -122.4176655
+    }
+  },
+  "16th St.": {
+    "address": "16th Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7655641,
+      "lng": -122.4114895
+    }
+  },
+  "Folsom": {
+    "address": "Folsom Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.76131900000001,
+      "lng": -122.4149557
+    }
+  },
+  "Harrison & 20th": {
+    "address": "Harrison Street & 20th Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7590319,
+      "lng": -122.4125147
+    }
+  },
+  "Clairon Alley between Valencia & Mission St.": {
+    "address": "Mission Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7512064,
+      "lng": -122.4183545
+    }
+  },
+  "18th Street between Guerrero and Valencia Streets": {
+    "address": "Valencia Street, San Francisco",
+    "geo": {
+      "lat": 37.7590195,
+      "lng": -122.4213343
+    }
+  },
+  "St. Paul's Church (Church Street, Noe Valley)": {
+    "address": "Church Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7548957,
+      "lng": -122.4277532
+    }
+  },
+  "Carnelian Room, Bank of America Building (555 California Street, 53rd Floor)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "CCSF Alemany Campus ": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Maritime Museum, Building 201 (Fort Mason)": {
+    "address": "J. Porter Shaw Library of San Francisco Maritime National Historic Park, Golden Gate National Recreation Area, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.80698400000001,
+      "lng": -122.4303999
+    }
+  },
+  "Hills Brothers Plaza (The Embarcadero at Harrison)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "City Light Bookstore (261 Columbus Avenue)": {
+    "address": "261 Columbus Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.797601,
+      "lng": -122.406579
+    }
+  },
+  "Edinburgh Castle (950 Geary Street)": {
+    "address": "950 Geary Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7862257,
+      "lng": -122.4189871
+    }
+  },
+  "Fog City Diner (1300 Battery Street)": {
+    "address": "1300 Battery Street, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.8034628,
+      "lng": -122.4017967
+    }
+  },
+  "Prudente's Italian Deli (1462 Grant Ave at Union)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Rocco's Corner (Columbus Street)": {
+    "address": "Columbus Ave & Chestnut St, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.803794,
+      "lng": -122.415136
+    }
+  },
+  "St. John's Presbyterian Church (25 Lake Street)": {
+    "address": "St Johns Presbyterian Church, San Francisco, CA 94118, USA",
+    "geo": {
+      "lat": 37.7867261,
+      "lng": -122.4596645
+    }
+  },
+  "Swedenborgian Church (2107 Lyon Street)": {
+    "address": "Swedenborgian Church, 2107 Lyon Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7902709,
+      "lng": -122.4463422
+    }
+  },
+  "Aladdin Terrace (off of Taylor Street, Between Filbert and Union)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Café Picaro 3120 16th Street": {
+    "address": "3120 16th Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7650784,
+      "lng": -122.4225222
+    }
+  },
+  "1462 Grant Avenue, at Union Street": {
+    "address": "1462 Grant Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8005374,
+      "lng": -122.4074414
+    }
+  },
+  "305 Hugo Street": {
+    "address": "305 Hugo Street, San Francisco, CA 94122, USA",
+    "geo": {
+      "lat": 37.7651954,
+      "lng": -122.4611472
+    }
+  },
+  "S.S. Jeremiah O'Brien": {
+    "address": "SS Jeremiah O'Brien, 11 Pier 45, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.809343,
+      "lng": -122.4159487
+    }
+  },
+  "Intersection of Columbus & Kearney Streets": {
+    "address": "Columbus Avenue & Kearny Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7969361,
+      "lng": -122.4053194
+    }
+  },
+  "Bessie Charmichael Elementary School (375 Seventh Street, SOMA)": {
+    "address": "Bessie Carmichael Elementary School, 7th Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7760829,
+      "lng": -122.4084268
+    }
+  },
+  "500 Block of Pacific Avenue (Chinatown)": {
+    "address": "500 Pacific Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.797336,
+      "lng": -122.4038353
+    }
+  },
+  "Intersection of Columbus & Mason Streets": {
+    "address": "Columbus Avenue & Mason Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8021652,
+      "lng": -122.4129322
+    }
+  },
+  "Intersection of Grant & Fresno Streets (North Beach)": {
+    "address": "Grant Avenue & Fresno Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.79850589999999,
+      "lng": -122.4071906
+    }
+  },
+  "Kearny & Pacific Streets": {
+    "address": "Kearny Street & Pacific Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7971099,
+      "lng": -122.4053539
+    }
+  },
+  "North Beach": {
+    "address": "North Beach, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.8060532,
+      "lng": -122.4103311
+    }
+  },
+  "West Harbor, Marina District": {
+    "address": "East Harbor, Golden Gate National Recreation Area, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.8071508,
+      "lng": -122.4338604
+    }
+  },
+  "2800 Scott Street": {
+    "address": "2800 Scott Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.795752,
+      "lng": -122.439917
+    }
+  },
+  "Pier 38-40, The Embarcadero": {
+    "address": "40 Pier, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7815904,
+      "lng": -122.3866351
+    }
+  },
+  "Near Point Lobos, El Camino Del Mar ": {
+    "address": "25th Ave & El Camino Del Mar, San Francisco, CA 94121, USA",
+    "geo": {
+      "lat": 37.787536,
+      "lng": -122.485139
+    }
+  },
+  "Mt. Davidson": {
+    "address": "Mount Davidson, San Francisco, CA 94127, USA",
+    "geo": {
+      "lat": 37.739132,
+      "lng": -122.4540461
+    }
+  },
+  "McDonald's Restaurant (701 3rd Street, SOMA)": {
+    "address": "701 3rd Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7788249,
+      "lng": -122.392425
+    }
+  },
+  "Ferry Plaza": {
+    "address": "Ferry Plaza, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7957585,
+      "lng": -122.3918603
+    }
+  },
+  "Civic Center Plaza": {
+    "address": "Civic Center Plaza, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7794978,
+      "lng": -122.4176118
+    }
+  },
+  "The Embarcadero/Ferry Building": {
+    "address": "THE EMBARCADERO/Ferry Building, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.795105,
+      "lng": -122.393861
+    }
+  },
+  "Bowles Franklin Galleries (765 Beach Street, Fisherman's Wharf)": {
+    "address": "765 Beach Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8063237,
+      "lng": -122.4215042
+    }
+  },
+  "Foote, Cone & Belding (733 Front Street at Pacific)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Hotel Majestic (1500 Sutter Street)": {
+    "address": "1500 Sutter Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7872605,
+      "lng": -122.4254393
+    }
+  },
+  "Marquee Lofts (1000 Van Ness Avenue at Alice B. Tolkas Place)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Citicorp Center (1 Sansome Street at Sutter) ": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Farley's Café (1315 18th Street Near Missouri)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Mission Dolores Park (Mission District)": {
+    "address": "Mission Dolores Park, San Francisco, CA 94114, USA",
+    "geo": {
+      "lat": 37.7597727,
+      "lng": -122.427063
+    }
+  },
+  "Blooms Saloon (18th Street between Missouri and Texas Streets)": {
+    "address": "Texas Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7583452,
+      "lng": -122.3951754
+    }
+  },
+  "Christopher's Books (1400 18th Street)": {
+    "address": "1400 18th Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7627009,
+      "lng": -122.3968332
+    }
+  },
+  "Regency Building (1290 Sutter Street)": {
+    "address": "1290 Sutter Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7877515,
+      "lng": -122.4214273
+    }
+  },
+  "Broadway Studios (435 Broadway at Montgomery Street)": {
+    "address": "Montgomery Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.79731659999999,
+      "lng": -122.4037026
+    }
+  },
+  "Powell Street": {
+    "address": "Powell Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7965168,
+      "lng": -122.4101149
+    }
+  },
+  "Bank of America (1455 Stockton Street)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Mission Street": {
+    "address": "Mission Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7512064,
+      "lng": -122.4183545
+    }
+  },
+  "Pine St. between Market and Montgomery": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "16th and Utah": {
+    "address": "16th Street & Utah Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.765847,
+      "lng": -122.4065486
+    }
+  },
+  "Van Ness between Fell and Lombard": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "California between Leavensworth and Powell": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Mission at 1st and 2nd": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Market at Mason": {
+    "address": "Market Street & Mason Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7832203,
+      "lng": -122.4090909
+    }
+  },
+  "California at Larkin": {
+    "address": "Market Street & Larkin Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7775008,
+      "lng": -122.4163228
+    }
+  },
+  "Califorinia at Jones": {
+    "address": "Jones Street & Francisco Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8043019,
+      "lng": -122.4167174
+    }
+  },
+  "Pine and Leavensworth": {
+    "address": "Pine Street & Leavenworth Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7902711,
+      "lng": -122.415564
+    }
+  },
+  "Howard St. from Embarcadero to 11 St.": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Construction Site in front of 260 Stockton St. at Post St.": {
+    "address": "Post Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7863092,
+      "lng": -122.424166
+    }
+  },
+  "California St. between Drumm St. and Kearny St.": {
+    "address": "Kearny Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7975623,
+      "lng": -122.4054395
+    }
+  },
+  "Market St. at Embarcadero area": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Pine St. between Market and Kearny": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Front St. between Market and Clay": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "San Francisco - Oakland Bay Bridge": {
+    "address": "San Francisco – Oakland Bay Bridge, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7992491,
+      "lng": -122.3765902
+    }
+  },
+  "Mission St., Embarcadero, and Front between Clay and Market": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Sutter Stockton Garage": {
+    "address": "Sutter Stockton Garage, 444 Stockton Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.78978480000001,
+      "lng": -122.4069833
+    }
+  },
+  "Bush St. at Stockton St.": {
+    "address": "Bush Street & Stockton Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7903743,
+      "lng": -122.4071627
+    }
+  },
+  "Powell St at Geary St": {
+    "address": "Geary Street & Powell Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7873923,
+      "lng": -122.4082636
+    }
+  },
+  "1 Market St. Landmark Building": {
+    "address": "Landmark Building D, Golden Gate National Recreation Area, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8068861,
+      "lng": -122.4307324
+    }
+  },
+  "Embarcadero between Pier 2 and Harrison": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Pier 14": {
+    "address": "Pier 14, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7935796,
+      "lng": -122.3913269
+    }
+  },
+  "766 Sutter Street": {
+    "address": "766 Sutter Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.788937,
+      "lng": -122.413123
+    }
+  },
+  "Nina M. Designs (52 2nd Street at Jessie)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Pacific Stock Exchange (301 Pine Street at Sansome)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Roof of Cable Car (California at Front Street)": {
+    "address": "Front Street, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7966247,
+      "lng": -122.3995127
+    }
+  },
+  "Sutter-Stockton Garage (330 Sutter Street at Stockton)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Washington Square Park (North Beach)": {
+    "address": "Washington Square Park, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.800781,
+      "lng": -122.410084
+    }
+  },
+  "Merchant Exchange (465 California Street at Leidesdortt)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Columbus Avenue at Green & Stockton": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Mama's Restaurant (1701 Stockton)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Powell and Geary Streets (Union Square)": {
+    "address": "Geary Street & Powell Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7873923,
+      "lng": -122.4082636
+    }
+  },
+  "Cathedral Hill Hotel (1101 Van Ness Avenue, Civic Center)": {
+    "address": "1101 Van Ness Avenue, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.785978,
+      "lng": -122.422312
+    }
+  },
+  "One Embarcadero Center (Financial District)": {
+    "address": "1 Embarcadero Center, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7950137,
+      "lng": -122.3994346
+    }
+  },
+  "Saks Fifth Avenue (384 Post Street, Union Square)": {
+    "address": "384 Post Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7885778,
+      "lng": -122.4081582
+    }
+  },
+  "Alamo Square (Hayes Valley)": {
+    "address": "San Francisco, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.779798,
+      "lng": -122.413262
+    }
+  },
+  "Alcoa Building (1 Maritime Plaza)": {
+    "address": "1 Maritime Plaza, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7954924,
+      "lng": -122.3992123
+    }
+  },
+  "Alta Plaza Park (Steiner Street)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "American Roofing Co. Building (297 Kansas Street, Potrero Hill)": {
+    "address": "297 Kansas Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7663064,
+      "lng": -122.4035011
+    }
+  },
+  "550 El Camino Del Mar (Seacliff)": {
+    "address": "550 El Camino Del Mar, San Francisco, CA 94121, USA",
+    "geo": {
+      "lat": 37.787534,
+      "lng": -122.489924
+    }
+  },
+  "1954 Mason Street (North Beach)": {
+    "address": "1954 Mason Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8018702,
+      "lng": -122.4128633
+    }
+  },
+  "20th & DeHaro Streets (Potrero Hill)": {
+    "address": "20th Street & De Haro Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7597412,
+      "lng": -122.4010859
+    }
+  },
+  "22nd & Wisconsin Streets (Potrero Hill)": {
+    "address": "22nd Street & Wisconsin Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7573037,
+      "lng": -122.3989281
+    }
+  },
+  "22nd Bet. Carolina & Rhode Island Streets (Potrero Hill)": {
+    "address": "Rhode Island Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.759675,
+      "lng": -122.40208
+    }
+  },
+  "New Asia Restaurant (772 Pacific Avenue at Grant)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "San Francisco Drydock (The Dogpatch)": {
+    "address": "Dogpatch, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7591221,
+      "lng": -122.3895378
+    }
+  },
+  "One Thousand Powell Apartments (1000 Powell Street)": {
+    "address": "1000 Powell Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7941048,
+      "lng": -122.4093554
+    }
+  },
+  "The Cannery (281 Leavenworth Street, Fisherman's Wharf)": {
+    "address": "281 Leavenworth Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.78363100000001,
+      "lng": -122.4142969
+    }
+  },
+  "Posrtsmouth Square (Chinatown)": {
+    "address": "Portsmouth Square Garage, 733 Kearny Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7948871,
+      "lng": -122.4052015
+    }
+  },
+  "Pierce St. & Golden Gate Avenue (Hayes Valley)": {
+    "address": "Golden Gate Avenue & Pierce Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7791605,
+      "lng": -122.4352281
+    }
+  },
+  "Pierce & California Streets (Pacific Heights)": {
+    "address": "Pacific Avenue & Pierce Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7929403,
+      "lng": -122.4380267
+    }
+  },
+  "Pier 3 (The Embarcadero)": {
+    "address": "Pier 3, The Embarcadero, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7983669,
+      "lng": -122.3945157
+    }
+  },
+  "Nam Yuen Restaurant (740 Washington Street, Chinatown)": {
+    "address": "740 Washington Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.795426,
+      "lng": -122.405875
+    }
+  },
+  "Mirant Energy, LLC (1301 Illinois Street, The Dogpatch)": {
+    "address": "Dogpatch, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7591221,
+      "lng": -122.3895378
+    }
+  },
+  "McAllister & Scott Streets (Hayes Valley)": {
+    "address": "Scott Street & McAllister Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.77800939999999,
+      "lng": -122.4367039
+    }
+  },
+  "KGO-TV ABC7 TV Studios (900 Front Street, Waterfront Historic District)": {
+    "address": "West Area Drive, San Francisco, CA 94128, USA",
+    "geo": {
+      "lat": 37.6271498,
+      "lng": -122.399966
+    }
+  },
+  "San Francisco National Military Cemetary (Lincoln Blvd., The Presidio, Golden Gate National Recreation Center)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Silver Restaurant (737 Washington Street, Chinatown)": {
+    "address": "737 Washington Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7950706,
+      "lng": -122.4061608
+    }
+  },
+  "Fremont Street Exit of Bay Bridge": {
+    "address": "Bay Bridge, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.8046191,
+      "lng": -122.3554512
+    }
+  },
+  "Folsom & Essex Streets": {
+    "address": "Folsom Street & Essex Street, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7863432,
+      "lng": -122.3957419
+    }
+  },
+  "Eber Electronics (2355 Market Street, Castro)": {
+    "address": "2355 Market Street, San Francisco, CA 94114, USA",
+    "geo": {
+      "lat": 37.7630801,
+      "lng": -122.4341627
+    }
+  },
+  "Clementina & Sumner Streets": {
+    "address": "Clementina Street & Sumner Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7759045,
+      "lng": -122.4100241
+    }
+  },
+  "Carl & Cole Streets (Cole Valley)": {
+    "address": "Cole Street & Carl Street, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.7657978,
+      "lng": -122.4499619
+    }
+  },
+  "710 Steiner Street (Hayes Valley)": {
+    "address": "710 Steiner Street, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.776068,
+      "lng": -122.432661
+    }
+  },
+  "23rd & Iowa Streets (Dogpatch)": {
+    "address": "23rd Street & Iowa Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7551696,
+      "lng": -122.3918784
+    }
+  },
+  "Geary St. from Polk to Larkin": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Victoria Theatre": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Yerba Buena Island": {
+    "address": "Yerba Buena Island, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.8108709,
+      "lng": -122.3668348
+    }
+  },
+  "SPECS' Twelve Adler Museum Café": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Ocean Beach at Point Lobos": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "700 Kansas St.": {
+    "address": "700 Kansas Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.76075,
+      "lng": -122.403468
+    }
+  },
+  "Presidio Branch Library": {
+    "address": "Presidio Branch Library, 3150 Sacramento Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7888478,
+      "lng": -122.4447763
+    }
+  },
+  "The Royal Oak": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Tonic": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Polk and Northpoint St.": {
+    "address": "Polk Street & North Point Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8053079,
+      "lng": -122.4236801
+    }
+  },
+  "770 Haight St.": {
+    "address": "770 Haight Street, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.771831,
+      "lng": -122.43489
+    }
+  },
+  "Hamburger Haven": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Higher Grounds Coffee House": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "304 Lily St.": {
+    "address": "304 Lily Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.77419769999999,
+      "lng": -122.4261198
+    }
+  },
+  "The Magazine at 920 Larkin": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Sutter & Webster Streets": {
+    "address": "Webster Street & Sutter Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7862944,
+      "lng": -122.4316212
+    }
+  },
+  "23rd & Capp Streets (Mission District)": {
+    "address": "23rd Street & Capp Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7539092,
+      "lng": -122.4175084
+    }
+  },
+  "24th Street Mini Park (Mission District)": {
+    "address": "24th & York Mini Park, 24th Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7529931,
+      "lng": -122.4085436
+    }
+  },
+  "Balmy Street (Mission District)": {
+    "address": "Balmy Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7509978,
+      "lng": -122.4123338
+    }
+  },
+  "Hall of Justice": {
+    "address": "Hall of Justice, 850 Bryant Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.775471,
+      "lng": -122.4037169
+    }
+  },
+  "Ritz-Carlton Hotel (600 Stockton Street)": {
+    "address": "600 Stockton Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7918779,
+      "lng": -122.4071784
+    }
+  },
+  "Merchant Exchange Building": {
+    "address": "Merchants Exchange Building, San Francisco, CA 94104, USA",
+    "geo": {
+      "lat": 37.792721,
+      "lng": -122.40215
+    }
+  },
+  "Harrison Street (The Embarcadero)": {
+    "address": "Harrison Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.773256,
+      "lng": -122.4091853
+    }
+  },
+  "City Club (155 Sansome Street)": {
+    "address": "155 Sansome Street, San Francisco, CA 94104, USA",
+    "geo": {
+      "lat": 37.7916676,
+      "lng": -122.4012528
+    }
+  },
+  "301 Howard Street": {
+    "address": "301 Howard Street, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7895287,
+      "lng": -122.3941925
+    }
+  },
+  "1 Bush Street": {
+    "address": "1 Bush Street, San Francisco, CA 94104, USA",
+    "geo": {
+      "lat": 37.7910938,
+      "lng": -122.4000249
+    }
+  },
+  "Washington Street & Waverly Place (Chinatown)": {
+    "address": "Washington Street & Waverly Place, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7950873,
+      "lng": -122.4070618
+    }
+  },
+  "Stockton Tunnel Southern Approach Overhang (Bush & Stockton Streets, Chinatown)": {
+    "address": "Stockton Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7967142,
+      "lng": -122.4084476
+    }
+  },
+  "Merchant Exchange Building (465 California Street)": {
+    "address": "Merchants Exchange Building, San Francisco, CA 94104, USA",
+    "geo": {
+      "lat": 37.792721,
+      "lng": -122.40215
+    }
+  },
+  "San Francisco Zoo (2701 Sloat Blvd.)": {
+    "address": "Insect Zoo, Sloat Boulevard, San Francisco, CA 94132, USA",
+    "geo": {
+      "lat": 37.73420369999999,
+      "lng": -122.5046736
+    }
+  },
+  "1227 Montgomery Street": {
+    "address": "1227 Montgomery Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8004632,
+      "lng": -122.4045382
+    }
+  },
+  "Market Street": {
+    "address": "Market Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7736854,
+      "lng": -122.421034
+    }
+  },
+  "Montgomery and Union St.": {
+    "address": "Montgomery Street & Union Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8010394,
+      "lng": -122.4044855
+    }
+  },
+  "Grant Ave from Sacramento to Clay": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Players Arcade at Pier 39": {
+    "address": "PIER 39, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.80867300000001,
+      "lng": -122.409821
+    }
+  },
+  "Coffee Dan's (O'Farrell Street at Powell)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Mandarin Theatre (1021 Grant Avenue)": {
+    "address": "1021 Grant Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.796333,
+      "lng": -122.407032
+    }
+  },
+  "Fomer Hall of Justice (750 Kearny Street at Washington)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "2090 Jackson Street": {
+    "address": "2090 Jackson Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.793415,
+      "lng": -122.429428
+    }
+  },
+  "Pier 41": {
+    "address": "Pier 41, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.80908489999999,
+      "lng": -122.4120401
+    }
+  },
+  "100 Block of Lombard Street": {
+    "address": "Lombard Street, Lombard Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.802139,
+      "lng": -122.41874
+    }
+  },
+  "Burritt Alley (Off Bush Street, between Powell and Stockton Streets)": {
+    "address": "Stockton Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7967142,
+      "lng": -122.4084476
+    }
+  },
+  "Pier 7/ Embarcadero": {
+    "address": "Pier 7, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.8001077,
+      "lng": -122.3943664
+    }
+  },
+  "skyline/ exterior scenes": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Moscone Convention Center": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "700 Block of Jackson Street (Chinatown)": {
+    "address": "700 Jackson Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7960495,
+      "lng": -122.4066909
+    }
+  },
+  "900 Block of Grant Avenue (Chinatown)": {
+    "address": "900 Grant Avenue, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7954105,
+      "lng": -122.4063727
+    }
+  },
+  "Battery Street (The Embarcadero)": {
+    "address": "Battery Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7976651,
+      "lng": -122.4008843
+    }
+  },
+  "Hayes & Polk Streets (Civic Center)": {
+    "address": "Hayes Street & Polk Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7775135,
+      "lng": -122.4180647
+    }
+  },
+  "Market & 2nd Streets": {
+    "address": "Market Street & 2nd Street, San Francisco, CA 94104, USA",
+    "geo": {
+      "lat": 37.7892494,
+      "lng": -122.401451
+    }
+  },
+  "Montgomery & Vallejo Streets (Telegraph Hill)": {
+    "address": "Montgomery Street & Vallejo Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.799174,
+      "lng": -122.4040675
+    }
+  },
+  "Sansome Street (The Embarcadero)": {
+    "address": "Sansome Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7979131,
+      "lng": -122.4021425
+    }
+  },
+  "200 Block of Sansome Street (Financial District)": {
+    "address": "200 Sansome Street, San Francisco, CA 94104, USA",
+    "geo": {
+      "lat": 37.7922626,
+      "lng": -122.4007051
+    }
+  },
+  "724 Brazil Avenue": {
+    "address": "724 Brazil Avenue, San Francisco, CA 94112, USA",
+    "geo": {
+      "lat": 37.721611,
+      "lng": -122.428894
+    }
+  },
+  "2601 Lyon Street": {
+    "address": "2601 Lyon Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.794673,
+      "lng": -122.446996
+    }
+  },
+  "Firestation #3 (Brazil Avenue and Athens Street)": {
+    "address": "Athens Street, San Francisco, CA 94112, USA",
+    "geo": {
+      "lat": 37.72009,
+      "lng": -122.429599
+    }
+  },
+  "Broadway Tunnel (Broadway between Powell and Larkin)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Glide Memorial Church (434 Ellis St)": {
+    "address": "Glide Memorial Church, 330 Ellis Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7852629,
+      "lng": -122.411461
+    }
+  },
+  "Glen Park Subway Station": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Golden Gate Park Children's Playground ": {
+    "address": "Koret Children's Quarter Playground, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.7683778,
+      "lng": -122.4571623
+    }
+  },
+  "American Can Company (Between Illinois & Kentucky, 20th and 22nd Streets)": {
+    "address": "22nd Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7558338,
+      "lng": -122.4122209
+    }
+  },
+  "Cow Palace": {
+    "address": "Palace Hotel, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7884,
+      "lng": -122.402
+    }
+  },
+  "New Russian Hill Market (1198 Pacific Avenue at Jones)": {
+    "address": "Jones Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7941378,
+      "lng": -122.4146698
+    }
+  },
+  "The San Francisco Bay": {
+    "address": "San Francisco Bay, California, USA",
+    "geo": {
+      "lat": 37.6909682,
+      "lng": -122.3107517
+    }
+  },
+  "Golden Gate National Recreation Area": {
+    "address": "Golden Gate National Recreation Area, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.8345044,
+      "lng": -122.5047922
+    }
+  },
+  "Bank of America Building (555 California Street, Financial District)": {
+    "address": "555 California Street, San Francisco, CA 94104, USA",
+    "geo": {
+      "lat": 37.7919,
+      "lng": -122.4038
+    }
+  },
+  "Firestation #38 (California & Laguna)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "2898 Vallejo Street": {
+    "address": "2898 Vallejo Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.794231,
+      "lng": -122.444878
+    }
+  },
+  "Hyatt Regency Hotel (5 Embarcadero Center, Financial District)": {
+    "address": "5 Embarcadero Center, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.7944232,
+      "lng": -122.3955429
+    }
+  },
+  "San Francisco Fire Station 38 (2150 California Street, Pacific Heights)": {
+    "address": "San Francisco Fire Department; Station 38, 2150 California, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7895354,
+      "lng": -122.4298217
+    }
+  },
+  "Pleasant Street at Taylor": {
+    "address": "Taylor Street & Pleasant Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.793018,
+      "lng": -122.4127482
+    }
+  },
+  "Montgomery Street at Union Street": {
+    "address": "Montgomery Street & Union Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8010394,
+      "lng": -122.4044855
+    }
+  },
+  "Lincoln Park": {
+    "address": "USS San Francisco Memorial, San Francisco, CA 94121, USA",
+    "geo": {
+      "lat": 37.7827968,
+      "lng": -122.5116069
+    }
+  },
+  "Broadway at Osgood Street (North Beach)": {
+    "address": "Broadway Street & Osgood Place, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7983359,
+      "lng": -122.4030815
+    }
+  },
+  "Lombard & Laguna Streets (Marina District)": {
+    "address": "Lombard Street & Laguna Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.8005347,
+      "lng": -122.4311013
+    }
+  },
+  "Lombard & Fillmore Streets (Marina District)": {
+    "address": "Fillmore Street & Lombard Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.7998893,
+      "lng": -122.4360998
+    }
+  },
+  "Lombard & Divisadero Streets (Marina District)": {
+    "address": "Divisadero Street & Lombard Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.7989652,
+      "lng": -122.4426209
+    }
+  },
+  "Lombard & Broderick Streets (Marina District)": {
+    "address": "Lombard Street & Broderick Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.798857,
+      "lng": -122.4443221
+    }
+  },
+  "Intersection of Fulton & 6th Streets (Chinatown)": {
+    "address": "6th Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.777052,
+      "lng": -122.4037836
+    }
+  },
+  "Intersection of California & Grant Streets (Richmond District)": {
+    "address": "Francisco Street & Grant Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8053253,
+      "lng": -122.4085588
+    }
+  },
+  "Huntington Park (California & Taylor Streets, Nob Hill)": {
+    "address": "Taylor Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7952373,
+      "lng": -122.4131981
+    }
+  },
+  "Ghiradelli Square (900 North Point Street, Fisherman's Wharf)": {
+    "address": "Ghirardelli Square, 900 North Point Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8056805,
+      "lng": -122.4223749
+    }
+  },
+  "Chestnut & Davisadero Streets (Marina District)": {
+    "address": "Divisadero Street & Chestnut Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.7999769,
+      "lng": -122.4428441
+    }
+  },
+  "2340 Francisco Street": {
+    "address": "2340 Francisco Street, San Francisco, CA 94123, USA",
+    "geo": {
+      "lat": 37.8010543,
+      "lng": -122.443903
+    }
+  },
+  "100 Block of Union Street (Cow Hollow)": {
+    "address": "100 Union Street, San Francisco, CA 94111, USA",
+    "geo": {
+      "lat": 37.8014337,
+      "lng": -122.4016633
+    }
+  },
+  "Old St. Mary's Church (660 California Street at Grant)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "McCovey Point, China Basin Park (24 Willy Mays Plaza)": {
+    "address": "Willie Mays Plaza, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7781551,
+      "lng": -122.3912407
+    }
+  },
+  "Veterans' War Memorial Building (401 Van Ness Avenue)": {
+    "address": "401 Van Ness Avenue, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7795223,
+      "lng": -122.4210204
+    }
+  },
+  "La Bodega (1332 Grant Avenue at Vallejo)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "The Saloon (1232 Grant Avenue)": {
+    "address": "1232 Grant Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7985867,
+      "lng": -122.4070229
+    }
+  },
+  "Mojito (1337-1339 Grant Avenue)": {
+    "address": "1339 Grant Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7992973,
+      "lng": -122.4074216
+    }
+  },
+  "Red's Java House (Pier 30-32, The Embarcadero)": {
+    "address": "32 Pier, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7859802,
+      "lng": -122.3860393
+    }
+  },
+  "Piers 30-32": {
+    "address": "32 Pier, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7859802,
+      "lng": -122.3860393
+    }
+  },
+  "Pier 24": {
+    "address": "24 Pier, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7890314,
+      "lng": -122.3870413
+    }
+  },
+  "Mecca Restaurant (2029 Market Street)": {
+    "address": "2029 Market Street, San Francisco, CA 94114, USA",
+    "geo": {
+      "lat": 37.7683541,
+      "lng": -122.4275647
+    }
+  },
+  "3567 18th Street": {
+    "address": "3567 18th Street, San Francisco, CA 94110, USA",
+    "geo": {
+      "lat": 37.7615944,
+      "lng": -122.4230814
+    }
+  },
+  "Project Artaud (Florida Street)": {
+    "address": "Florida Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7575436,
+      "lng": -122.4105342
+    }
+  },
+  "Carona Heights Park": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "544 Natoma (SOMA)": {
+    "address": "544 Natoma Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7795125,
+      "lng": -122.4087872
+    }
+  },
+  "422 Oak Street at Laguna": {
+    "address": "422 Oak Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.774738,
+      "lng": -122.426386
+    }
+  },
+  "Under Highway 101 (near Potrero and Cesar Chavez Streets)": {
+    "address": "Cesar Chavez Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7483767,
+      "lng": -122.4103522
+    }
+  },
+  "York Hotel (940 Sutter Street)": {
+    "address": "940 Sutter Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.788484,
+      "lng": -122.4159662
+    }
+  },
+  "1007 Gough Street": {
+    "address": "1007 Gough Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7825466,
+      "lng": -122.4241443
+    }
+  },
+  "900 Lombard Street": {
+    "address": "900 Lombard Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.8024756,
+      "lng": -122.4166335
+    }
+  },
+  "California Palace of the Legion of Honor (34th Avenue & Clement, Lincoln Park)": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Claude Lane at Bush Street": {
+    "address": "Bush Street & Claude Lane, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7907065,
+      "lng": -122.4044856
+    }
+  },
+  "Ernie's Restaurant (847 Montgomery Street)": {
+    "address": "847 Montgomery Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.79697480000001,
+      "lng": -122.4036592
+    }
+  },
+  "Gough & Eddy Streets (Western Addition)": {
+    "address": "Gough Street & Eddy Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7824876,
+      "lng": -122.4241111
+    }
+  },
+  "Mission San Juan Bautista (2nd & Mariposa Streets)": {
+    "address": "Mariposa Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.76364299999999,
+      "lng": -122.4005248
+    }
+  },
+  "Park Hill Sanatorium (351 Buena Vista Avenue East)": {
+    "address": "351 Buena Vista Avenue East, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.766883,
+      "lng": -122.439604
+    }
+  },
+  "22nd Avenue & Balboa Street (Richmond District)": {
+    "address": "Balboa Street & 22nd Avenue, San Francisco, CA 94121, USA",
+    "geo": {
+      "lat": 37.7764455,
+      "lng": -122.481262
+    }
+  },
+  "San Francisco Hilton (333 O'Farrell Street)": {
+    "address": "Hilton San Francisco Union Square, 333 O'Farrell Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7856846,
+      "lng": -122.4104325
+    }
+  },
+  "Lombard Street between Hyde and Leavenworth": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Hyde Street Pier": {
+    "address": "Golden Gate National Recreation Area, San Francisco Maritime National Historical Park, Hyde Street Pier, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8094834,
+      "lng": -122.4218196
+    }
+  },
+  "Grant Street at Pacific Avenue": {
+    "address": "Pacific Avenue & Grant Avenue, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7969186,
+      "lng": -122.4068665
+    }
+  },
+  "Cybelle's Pizza 1000 Bush Street": {
+    "address": "1000 Bush Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7896824,
+      "lng": -122.4140212
+    }
+  },
+  "1521 Masonic Avenue at Piedmont Street": {
+    "address": "1521 Masonic Avenue, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.765892,
+      "lng": -122.444467
+    }
+  },
+  "Buena Vista Café 2765 Hyde Street": {
+    "address": "2765 Hyde Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.8065278,
+      "lng": -122.4207822
+    }
+  },
+  "Victor's Restaurant, The Westin St. Francis Hotel 335 Powell Street": {
+    "address": "335 Powell Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7878172,
+      "lng": -122.408767
+    }
+  },
+  "Spring Valley School 1451 Jackson Street": {
+    "address": "Spring Valley Science School, 1451 Jackson Street, San Francisco, CA 94109, USA",
+    "geo": {
+      "lat": 37.7939307,
+      "lng": -122.4188493
+    }
+  },
+  "International Studies Academy 993 Vermont Street, Potrero Hill": {
+    "address": "993 Vermont Street, San Francisco, CA 94107, USA",
+    "geo": {
+      "lat": 37.7571929,
+      "lng": -122.4031392
+    }
+  },
+  "766 Vallejo Street at Stockton Street North Beach": {
+    "address": "766 Vallejo Street, San Francisco, CA 94133, USA",
+    "geo": {
+      "lat": 37.7986593,
+      "lng": -122.4099628
+    }
+  },
+  "Cable Car Signal Box California Street at Powell Street": {
+    "address": "Powell Street, San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7965168,
+      "lng": -122.4101149
+    }
+  },
+  "819 Mason Street at Pine": {
+    "address": "819 Mason Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.791162,
+      "lng": -122.41091
+    }
+  },
+  "772 Commercial Street at Kearney": {
+    "address": "772 Commercial Street, San Francisco, CA 94108, USA",
+    "geo": {
+      "lat": 37.7940098,
+      "lng": -122.4058703
+    }
+  },
+  "1801 Laguna at Bush": {
+    "address": "1801 Laguna Street, San Francisco, CA 94115, USA",
+    "geo": {
+      "lat": 37.7877516,
+      "lng": -122.4287783
+    }
+  },
+  "835-865 Market Street at 5th Street": {
+    "address": "Market Street & 5th Street, San Francisco, CA 94102, USA",
+    "geo": {
+      "lat": 37.7840081,
+      "lng": -122.408092
+    }
+  },
+  "312 Fillmore Street": {
+    "address": "312 Fillmore Street, San Francisco, CA 94117, USA",
+    "geo": {
+      "lat": 37.772407,
+      "lng": -122.4303972
+    }
+  },
+  "SF Chronicle Building 901 Mission St": {
+    "address": "Golden Gate University, 536 Mission Street, San Francisco, CA 94105, USA",
+    "geo": {
+      "lat": 37.7892921,
+      "lng": -122.3989821
+    }
+  },
+  "Mr. S Leather": {
+    "address": "385 8th Street, San Francisco, CA 94103, USA",
+    "geo": {
+      "lat": 37.7741347,
+      "lng": -122.4086944
+    }
+  },
+  "Tonga Room": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  },
+  "Epic Roasthouse": {
+    "address": "San Francisco, CA, USA",
+    "geo": {
+      "lat": 37.7749295,
+      "lng": -122.4194155
+    }
+  }
+}
