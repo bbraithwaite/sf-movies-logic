@@ -1,7 +1,7 @@
 {
   "name": "sf-movies-logic",
   "version": "1.0.0",
-  "description": "Business logic for sf-movies app",
+  "description": "San Francisco Movies Business Logic.",
   "main": "index.js",
   "scripts": {
     "lint": "jshint .",
