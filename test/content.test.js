@@ -2,7 +2,7 @@
 
 var should = require('should');
 var sinon = require('sinon');
-var imdbClient = require('imdb-client');
+var imdbClient = require('omdb-client');
 var sfmLogic = require('../index');
 
 describe('Movie Content', function() {

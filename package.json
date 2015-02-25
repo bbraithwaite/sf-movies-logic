@@ -19,7 +19,7 @@
   "author": "https://github.com/bbraithwaite",
   "license": "ISC",
   "dependencies": {
-    "imdb-client": "git+https://github.com/bbraithwaite/imdb-client"
+    "omdb-client": "git+https://github.com/bbraithwaite/omdb-client"
   },
   "devDependencies": {
     "jshint": "^2.6.0",
