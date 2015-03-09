@@ -1,5 +1,6 @@
 {
   "name": "sf-movies-logic",
+  "private": true,
   "version": "1.0.0",
   "description": "San Francisco Movies Business Logic.",
   "main": "index.js",
