@@ -20,7 +20,7 @@
   "author": "https://github.com/bbraithwaite",
   "license": "ISC",
   "dependencies": {
-    "omdb-client": "git+https://github.com/bbraithwaite/omdb-client"
+    "omdb-client": "^1.0.1"
   },
   "devDependencies": {
     "jshint": "^2.6.0",
