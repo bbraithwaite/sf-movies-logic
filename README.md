@@ -9,7 +9,7 @@ Features of this repo:
 
 * Structure for publishing node modules
 * JSHint configuration
-* Pre-commit hook configuration
+* Pre-commit hook configuration to check JSHint and Unit Tests per code commit
 * Unit testing Mocha and _Should_ style assertions
 * Unit test coverage using Istanbul
 
